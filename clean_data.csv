@@ -1,0 +1,1215 @@
+,age,gender,occupation,work_schedule,bmi_category,smoking_status,physical_activity_min_week,stress_score,sleep_duration_hours,sleep_quality_score,resting_heart_rate_bpm,daily_steps,sleep_disorder
+0,42,female,driver,day,obese,former,133,4.30,6.10,3.80,74,5773,sleep apnea
+1,48,female,healthcare worker,night,obese,never,309,7.60,6.40,2.60,74,5744,none
+2,54,male,sales,day,obese,never,187,5.60,6.00,2.70,77,4975,sleep apnea
+3,43,male,teacher,day,obese,former,274,5.60,6.00,4.00,81,9979,insomnia
+4,28,female,manufacturing,rotating/shift,underweight,never,228,3.00,6.20,4.30,74,7399,none
+5,43,female,manager,day,overweight,never,299,6.10,5.40,2.80,78,8338,insomnia
+6,47,male,manager,day,overweight,never,211,7.10,6.00,4.30,82,5994,insomnia
+7,26,male,hospitality,rotating/shift,underweight,never,128,3.30,7.00,4.40,72,6769,none
+8,18,male,student,day,underweight,never,354,2.80,6.50,5.80,69,11139,none
+9,38,male,freelancer,rotating/shift,normal,former,180,4.50,7.50,6.10,74,7260,none
+10,32,male,software engineer,day,normal,former,205,3.30,6.30,6.20,81,7661,none
+11,39,female,manager,day,overweight,former,343,5.90,6.50,5.10,76,7394,insomnia
+12,39,male,sales,day,underweight,former,225,4.50,7.00,5.40,76,7147,none
+13,50,female,hospitality,day,obese,never,204,4.00,6.60,6.50,73,7705,sleep apnea
+14,27,female,manager,day,normal,never,185,5.10,6.30,3.10,77,4160,sleep apnea
+15,30,male,hospitality,night,underweight,never,343,4.40,5.80,2.50,77,6521,none
+16,36,male,manufacturing,day,overweight,never,285,3.10,6.10,5.10,74,8953,sleep apnea
+17,18,female,manufacturing,rotating/shift,underweight,former,249,7.00,5.20,2.30,71,9450,insomnia
+18,60,female,freelancer,day,obese,former,153,4.60,7.00,6.00,76,5869,insomnia
+19,20,female,sales,rotating/shift,underweight,never,179,5.80,5.80,1.90,78,5457,none
+20,39,female,healthcare worker,day,overweight,never,325,6.20,7.20,4.40,81,7040,insomnia
+21,44,male,researcher,day,overweight,never,247,3.80,6.40,4.80,75,9626,sleep apnea
+22,67,male,freelancer,day,obese,former,127,4.60,6.50,4.30,80,7825,sleep apnea
+23,57,male,software engineer,day,obese,never,169,4.70,8.00,5.50,84,8058,sleep apnea
+24,18,male,sales,day,underweight,never,232,5.20,5.80,6.10,80,7853,none
+25,25,male,software engineer,day,underweight,former,252,4.10,6.90,4.70,70,7171,none
+26,43,male,hospitality,rotating/shift,obese,former,151,6.10,5.80,1.20,86,3801,sleep apnea
+27,21,female,driver,day,underweight,former,217,6.30,6.80,3.10,82,7215,none
+28,28,male,office staff,day,underweight,never,307,1.10,8.60,6.70,69,5984,sleep apnea
+29,41,female,researcher,day,obese,former,146,5.10,4.90,2.90,78,8254,none
+30,18,female,manager,day,underweight,never,366,4.30,7.10,4.60,69,7070,none
+31,38,female,teacher,day,normal,never,201,3.70,6.50,5.40,75,3726,none
+32,49,female,freelancer,rotating/shift,overweight,former,0,7.10,4.50,1.80,78,5052,insomnia
+33,47,female,freelancer,rotating/shift,normal,never,180,4.80,6.60,3.80,81,7832,none
+34,50,male,hospitality,day,obese,never,246,4.50,6.70,4.40,75,8717,sleep apnea
+35,32,female,teacher,day,underweight,never,112,5.70,5.40,3.00,74,4447,insomnia
+36,59,female,software engineer,day,obese,former,270,1.90,6.70,6.30,73,10042,insomnia
+37,23,male,researcher,day,underweight,former,279,4.70,6.30,3.30,74,5889,none
+38,36,female,freelancer,rotating/shift,normal,never,166,4.30,6.20,4.40,78,7988,none
+39,58,male,driver,rotating/shift,obese,former,105,5.50,5.50,3.20,83,7442,none
+40,37,male,driver,day,overweight,never,150,4.60,6.50,4.30,77,7003,none
+41,34,male,teacher,day,normal,never,277,4.80,6.10,4.80,73,7602,insomnia
+42,54,male,healthcare worker,day,obese,former,314,4.00,7.30,4.40,74,8777,sleep apnea
+43,41,female,student,day,underweight,never,504,5.00,7.50,6.10,78,8720,none
+44,18,male,driver,night,underweight,never,141,4.30,6.60,4.20,67,6508,none
+45,39,male,teacher,day,normal,never,192,4.00,6.00,4.70,82,7113,insomnia
+46,51,female,office staff,rotating/shift,obese,current,177,7.00,5.40,1.00,82,5033,insomnia
+47,36,male,manager,day,normal,never,134,5.30,6.10,4.30,85,7340,none
+48,41,male,researcher,day,normal,current,99,4.60,6.30,2.60,82,5916,none
+49,20,female,healthcare worker,day,underweight,never,253,6.20,6.00,3.60,69,6466,none
+50,48,female,researcher,day,obese,former,308,3.70,6.60,4.60,76,6472,sleep apnea
+51,53,female,software engineer,day,overweight,never,338,5.50,6.50,3.80,72,10279,sleep apnea
+52,28,male,driver,day,underweight,former,166,4.70,7.20,5.20,80,6818,none
+53,28,female,researcher,day,underweight,never,101,4.70,7.20,4.30,0,4800,none
+54,39,male,driver,night,obese,never,168,4.40,5.90,4.50,74,5847,none
+55,30,female,office staff,day,underweight,never,232,4.20,5.80,4.60,86,2964,insomnia
+56,34,male,software engineer,day,normal,former,170,4.30,6.00,4.70,82,7496,none
+57,37,female,teacher,day,overweight,former,162,5.30,6.00,4.20,78,5875,insomnia
+58,29,female,healthcare worker,rotating/shift,normal,never,152,3.20,6.60,3.90,76,7130,none
+59,18,female,student,day,underweight,never,206,5.10,6.40,2.70,66,9228,none
+60,59,female,office staff,rotating/shift,obese,former,215,3.70,6.10,3.70,75,5945,sleep apnea
+61,59,male,manufacturing,day,obese,never,243,6.00,6.60,4.40,90,7834,sleep apnea
+62,49,male,freelancer,day,normal,former,299,4.00,6.70,4.80,74,5876,sleep apnea
+63,32,female,healthcare worker,rotating/shift,normal,never,28,6.20,5.40,2.80,78,3653,insomnia
+64,36,female,student,day,normal,never,352,4.00,6.40,5.20,75,7522,none
+65,37,female,driver,day,normal,former,284,3.10,8.10,6.70,79,6605,none
+66,46,female,office staff,rotating/shift,overweight,former,288,3.70,6.60,4.60,82,10318,sleep apnea
+67,30,male,software engineer,day,underweight,never,307,4.20,5.90,4.20,75,7349,none
+68,46,male,teacher,rotating/shift,normal,never,191,6.00,4.90,1.20,70,5075,insomnia
+69,51,female,freelancer,day,overweight,never,126,4.90,6.70,3.90,84,8964,sleep apnea
+70,34,male,manager,day,underweight,former,186,3.80,7.50,4.20,78,5455,none
+71,26,male,driver,rotating/shift,underweight,never,364,5.20,6.00,4.90,78,7900,none
+72,50,male,hospitality,day,obese,current,216,5.90,5.90,3.60,81,6782,sleep apnea
+73,32,female,researcher,day,underweight,never,233,4.50,7.30,5.40,72,6364,insomnia
+74,46,female,teacher,rotating/shift,obese,former,196,4.30,6.00,3.70,69,5338,none
+75,26,male,sales,day,underweight,never,305,4.90,5.70,3.30,72,8990,sleep apnea
+76,43,male,manufacturing,rotating/shift,obese,former,183,4.20,5.80,2.60,86,5228,sleep apnea
+77,35,male,student,day,normal,never,391,3.80,6.90,5.00,83,11230,insomnia
+78,44,female,sales,day,overweight,none,219,5.70,5.60,2.70,78,6106,sleep apnea
+79,34,female,hospitality,rotating/shift,normal,never,331,6.00,6.10,3.50,74,6331,insomnia
+80,20,male,sales,night,underweight,never,311,5.20,5.00,2.50,79,6851,insomnia
+81,36,female,sales,day,obese,never,164,5.50,6.00,3.80,71,9106,none
+82,40,female,hospitality,day,normal,former,208,5.70,6.10,3.40,85,10172,insomnia
+83,21,female,healthcare worker,none,underweight,never,409,4.90,5.90,4.50,76,10601,none
+84,46,female,student,rotating/shift,normal,never,288,6.40,4.90,1.70,77,7048,insomnia
+85,34,male,researcher,day,underweight,former,191,4.50,6.80,5.20,72,4721,none
+86,35,male,freelancer,day,underweight,former,203,4.10,6.20,4.60,73,7653,insomnia
+87,23,male,manufacturing,night,underweight,never,243,5.80,5.80,2.60,75,6173,none
+88,43,female,student,day,overweight,former,224,3.10,7.60,5.80,78,7820,sleep apnea
+89,23,male,software engineer,day,underweight,former,376,3.70,6.80,5.00,80,6799,none
+90,37,female,manufacturing,day,normal,never,284,4.10,6.70,4.60,81,4346,sleep apnea
+91,28,male,teacher,day,underweight,never,251,4.40,6.40,4.20,71,7102,none
+92,41,male,healthcare worker,day,overweight,former,247,6.30,6.20,3.40,76,11861,none
+93,54,male,driver,day,obese,none,159,3.00,7.60,6.10,78,3126,none
+94,34,female,healthcare worker,day,normal,never,199,6.90,4.50,1.70,77,4000,insomnia
+95,47,female,healthcare worker,night,overweight,never,158,5.10,6.40,4.50,79,5040,sleep apnea
+96,19,male,manager,rotating/shift,underweight,former,218,4.50,6.50,3.90,72,6506,none
+97,25,male,hospitality,day,underweight,never,83,3.70,6.40,4.40,78,6927,none
+98,56,female,sales,day,obese,former,150,7.60,5.90,1.40,85,7452,none
+99,54,female,student,day,obese,never,254,5.80,6.10,4.20,72,5565,sleep apnea
+100,34,female,healthcare worker,rotating/shift,underweight,never,320,7.80,6.00,3.30,73,6741,insomnia
+101,43,male,freelancer,day,normal,never,206,3.20,6.10,4.20,80,9028,none
+102,40,male,hospitality,day,overweight,never,152,5.00,5.70,4.20,76,3219,sleep apnea
+103,30,female,teacher,rotating/shift,underweight,never,119,6.00,6.40,2.30,73,6916,none
+104,49,female,software engineer,day,obese,never,316,3.00,6.80,7.80,75,8240,none
+105,18,female,student,day,underweight,former,322,3.30,7.60,4.90,67,7904,none
+106,45,female,driver,day,overweight,former,225,4.90,6.60,4.40,84,7755,none
+107,39,female,manager,day,normal,former,93,4.10,6.30,2.90,87,7083,none
+108,67,male,manager,day,obese,former,230,4.70,7.10,3.50,75,8147,sleep apnea
+109,24,female,none,day,underweight,never,235,3.30,6.30,5.10,76,6431,insomnia
+110,54,female,freelancer,day,obese,current,108,5.50,5.80,4.70,81,5352,sleep apnea
+111,18,female,office staff,day,underweight,never,224,5.60,5.60,4.50,80,5502,insomnia
+112,40,female,hospitality,day,overweight,never,235,4.60,5.40,4.30,0,5239,sleep apnea
+113,56,female,manufacturing,day,obese,never,392,2.60,6.80,4.60,72,7214,none
+114,38,female,software engineer,day,normal,former,211,3.10,6.90,5.20,82,7671,none
+115,31,,sales,day,underweight,never,246,4.50,6.40,3.40,85,5351,insomnia
+116,64,female,office staff,day,obese,former,181,3.90,5.80,3.60,77,5614,sleep apnea
+117,32,male,healthcare worker,night,underweight,former,380,6.00,5.50,4.00,74,11615,sleep apnea
+118,49,female,teacher,day,normal,former,202,5.60,5.30,4.50,82,6008,sleep apnea
+119,33,male,healthcare worker,none,underweight,never,215,4.40,6.00,4.80,78,5052,none
+120,43,male,teacher,day,overweight,former,244,4.80,7.00,4.00,76,4462,none
+121,57,male,manager,day,obese,former,121,5.30,6.10,3.80,81,3279,sleep apnea
+122,46,male,driver,day,obese,former,116,2.50,6.60,2.70,76,7286,sleep apnea
+123,37,female,driver,day,underweight,never,287,3.50,7.50,5.70,72,5695,none
+124,47,male,sales,day,obese,former,225,5.00,5.50,3.80,82,5752,sleep apnea
+125,34,male,sales,day,normal,former,229,5.00,6.30,4.60,68,4530,none
+126,37,male,healthcare worker,day,normal,former,348,4.40,6.50,5.50,79,10006,none
+127,30,female,driver,day,underweight,former,312,5.70,5.50,3.10,78,5545,insomnia
+128,28,male,sales,day,underweight,never,251,4.60,6.20,3.50,78,5477,insomnia
+129,57,male,sales,day,obese,former,0,5.00,6.40,3.90,78,2293,insomnia
+130,57,female,researcher,day,obese,never,99,4.70,5.50,2.90,76,4273,sleep apnea
+131,33,female,freelancer,day,underweight,never,275,6.30,6.00,3.20,75,7828,none
+132,45,female,healthcare worker,day,normal,never,241,4.40,7.30,5.00,74,7868,none
+133,52,female,manager,day,obese,never,146,5.60,6.00,3.10,75,5855,sleep apnea
+134,45,male,driver,night,overweight,former,204,3.60,5.40,2.90,73,7923,sleep apnea
+135,41,female,teacher,rotating/shift,obese,former,83,2.50,6.00,4.80,71,4104,insomnia
+136,40,male,teacher,day,normal,former,107,5.00,6.50,5.00,80,4003,none
+137,38,female,sales,night,normal,never,280,7.30,5.40,1.00,77,6867,none
+138,33,female,student,day,normal,never,334,3.70,7.00,4.50,70,11367,sleep apnea
+139,61,female,healthcare worker,day,obese,current,174,6.30,4.40,1.00,80,2812,insomnia
+140,44,female,software engineer,day,obese,never,174,3.40,6.60,4.50,74,7021,sleep apnea
+141,33,male,teacher,day,normal,never,214,3.40,6.90,6.60,83,2550,sleep apnea
+142,46,female,teacher,day,obese,former,221,5.70,5.70,4.50,75,7332,insomnia
+143,36,male,office staff,rotating/shift,normal,never,157,5.60,5.20,3.40,83,6428,sleep apnea
+144,31,male,hospitality,day,normal,former,128,4.90,5.50,2.20,82,3334,none
+145,33,female,driver,night,underweight,never,265,6.60,5.40,1.80,85,1630,none
+146,46,male,software engineer,day,normal,never,203,6.30,6.70,3.60,77,4613,none
+147,19,male,researcher,rotating/shift,underweight,former,230,5.30,5.30,3.30,75,4768,none
+148,48,female,teacher,night,overweight,former,75,5.50,5.60,3.80,76,2770,none
+149,55,male,office staff,rotating/shift,obese,former,212,4.60,6.20,3.90,84,8049,none
+150,45,male,software engineer,day,normal,never,227,3.40,6.40,4.10,68,4752,none
+151,48,female,teacher,day,overweight,former,204,3.60,7.10,6.10,72,9098,none
+152,24,male,driver,night,underweight,never,174,6.40,5.90,3.30,81,6757,insomnia
+153,34,male,manufacturing,day,normal,former,312,6.90,5.80,3.20,75,7006,insomnia
+154,58,female,sales,day,obese,never,322,4.20,6.90,5.70,74,9381,sleep apnea
+155,18,male,none,day,underweight,never,280,4.20,7.20,4.80,84,8604,none
+156,24,male,student,day,underweight,former,264,4.10,6.60,4.30,75,7631,none
+157,35,male,office staff,day,underweight,former,57,6.50,4.70,3.50,76,0,insomnia
+158,52,female,healthcare worker,day,obese,former,195,5.90,5.90,3.70,75,6269,insomnia
+159,34,female,software engineer,day,underweight,never,244,3.10,7.30,5.40,77,7413,none
+160,25,female,student,day,underweight,never,246,5.30,6.10,3.90,73,6870,none
+161,43,female,driver,rotating/shift,overweight,never,232,4.40,6.50,4.00,77,7306,none
+162,18,male,sales,day,underweight,never,238,4.80,6.50,4.30,63,7810,none
+163,29,male,manufacturing,rotating/shift,underweight,never,373,5.40,6.30,4.10,81,5783,none
+164,35,female,office staff,day,normal,never,312,3.80,6.20,3.80,75,3069,none
+165,41,female,manufacturing,night,overweight,never,291,5.30,6.10,3.30,79,6092,insomnia
+166,22,male,freelancer,day,underweight,never,208,5.10,7.50,4.00,83,5065,none
+167,33,female,office staff,rotating/shift,underweight,never,178,4.70,5.30,2.00,78,2950,none
+168,41,female,student,day,underweight,never,412,3.60,6.90,6.70,79,7906,insomnia
+169,33,male,driver,day,underweight,never,469,2.30,7.50,6.50,80,10164,sleep apnea
+170,47,male,software engineer,day,overweight,former,254,3.50,7.20,6.50,82,6181,sleep apnea
+171,24,male,teacher,rotating/shift,underweight,never,310,4.60,6.70,5.80,76,8709,sleep apnea
+172,24,male,office staff,day,underweight,never,172,5.20,5.60,3.70,77,6495,none
+173,18,female,healthcare worker,night,underweight,never,267,5.80,5.80,2.70,71,6366,insomnia
+174,36,male,sales,day,normal,never,159,5.20,6.90,4.20,76,5881,none
+175,37,male,hospitality,day,normal,never,197,3.90,6.80,5.60,76,5884,none
+176,37,female,healthcare worker,day,normal,former,330,5.90,5.90,2.80,74,7583,sleep apnea
+177,35,female,manager,day,underweight,never,310,4.00,6.20,5.10,66,8072,none
+178,44,female,manufacturing,rotating/shift,obese,former,150,5.20,5.80,2.10,83,8018,none
+179,36,female,freelancer,day,normal,never,238,4.80,6.40,5.70,77,8259,sleep apnea
+180,27,male,researcher,day,underweight,former,218,3.10,6.20,5.40,64,6465,none
+181,38,female,student,day,normal,never,330,5.30,6.70,4.00,71,7722,none
+182,27,female,healthcare worker,rotating/shift,underweight,former,302,5.40,6.20,5.00,79,8565,none
+183,46,female,sales,day,normal,never,259,3.60,6.00,4.20,75,4256,none
+184,42,male,driver,night,overweight,former,243,5.40,6.70,3.30,77,3526,none
+185,39,male,teacher,day,underweight,never,172,4.70,6.10,2.10,78,5510,none
+186,34,female,manufacturing,day,underweight,never,206,0.00,5.70,2.60,79,5509,insomnia
+187,29,male,researcher,rotating/shift,underweight,former,162,3.90,6.10,3.80,77,5913,none
+188,43,male,software engineer,night,normal,never,171,5.90,5.70,3.40,76,5362,none
+189,67,female,office staff,day,obese,former,166,5.30,7.40,5.00,83,4829,none
+190,43,female,teacher,day,obese,former,221,4.40,6.10,3.90,77,6117,sleep apnea
+191,18,female,researcher,rotating/shift,underweight,former,167,3.90,6.50,3.70,73,4416,none
+192,49,male,student,day,obese,former,311,3.30,6.20,4.30,70,6455,sleep apnea
+193,48,female,software engineer,day,obese,former,167,5.00,6.60,4.60,76,4666,sleep apnea
+194,19,male,hospitality,night,underweight,none,213,5.30,5.70,3.00,78,8032,none
+195,38,female,manager,day,underweight,never,141,3.10,6.60,3.60,75,3915,none
+196,50,female,manager,day,obese,never,167,4.70,5.60,4.30,79,6071,sleep apnea
+197,35,male,software engineer,rotating/shift,underweight,never,224,4.70,6.70,4.40,81,5020,none
+198,47,female,researcher,day,normal,never,100,5.40,6.40,4.60,78,6786,none
+199,43,female,teacher,none,underweight,never,207,4.20,6.80,5.50,74,7323,insomnia
+200,34,male,software engineer,day,normal,former,320,3.50,7.50,7.20,75,7885,none
+201,23,male,software engineer,day,underweight,former,348,3.30,6.30,5.40,70,9199,sleep apnea
+202,40,female,researcher,day,underweight,former,224,6.20,4.90,3.00,89,4967,sleep apnea
+203,32,male,researcher,day,underweight,never,162,4.10,6.40,3.50,70,9838,sleep apnea
+204,41,female,sales,day,underweight,former,270,6.90,5.60,2.90,80,6568,insomnia
+205,35,female,sales,rotating/shift,normal,former,195,7.00,5.90,2.60,82,5473,insomnia
+206,25,female,software engineer,day,underweight,never,228,4.90,7.40,6.70,75,7871,none
+207,46,male,freelancer,rotating/shift,obese,current,105,6.20,6.00,2.10,82,4618,insomnia
+208,38,male,teacher,rotating/shift,normal,former,173,7.70,5.60,3.90,78,9674,insomnia
+209,24,female,software engineer,rotating/shift,underweight,never,217,4.00,6.50,5.00,73,7297,none
+210,56,female,manufacturing,day,obese,former,270,4.20,6.40,2.90,84,6473,none
+211,36,female,office staff,day,normal,never,214,2.90,7.20,5.70,72,4349,none
+212,40,female,sales,day,overweight,never,104,5.10,5.50,4.00,89,8231,none
+213,44,female,healthcare worker,night,normal,never,172,4.60,6.50,4.30,80,6755,insomnia
+214,42,female,manufacturing,day,overweight,former,258,5.00,6.20,4.20,72,7575,insomnia
+215,50,male,manager,rotating/shift,overweight,current,115,5.00,5.40,2.40,77,4720,insomnia
+216,69,female,teacher,rotating/shift,obese,former,63,6.50,5.50,2.20,87,2923,sleep apnea
+217,60,female,driver,day,obese,former,223,3.40,7.20,4.80,76,6976,sleep apnea
+218,53,male,healthcare worker,rotating/shift,overweight,former,252,5.70,5.40,4.30,68,7852,none
+219,23,male,driver,day,underweight,never,0,4.60,7.40,4.30,73,6913,none
+220,39,female,healthcare worker,day,normal,never,319,6.30,5.80,2.80,79,7506,insomnia
+221,29,female,manufacturing,night,normal,never,265,5.40,5.50,2.30,75,6621,none
+222,38,female,teacher,day,normal,never,219,2.80,6.50,4.20,75,5894,none
+223,42,female,manufacturing,day,normal,former,208,4.80,5.80,4.50,73,4630,insomnia
+224,35,female,student,day,underweight,never,370,3.50,6.30,3.80,66,7585,none
+225,58,male,healthcare worker,day,obese,former,291,4.50,6.00,3.60,81,8681,none
+226,59,female,student,rotating/shift,obese,never,317,2.90,7.20,6.00,79,5228,sleep apnea
+227,33,male,teacher,day,normal,former,241,5.60,5.90,3.70,72,8287,insomnia
+228,31,female,student,day,underweight,none,399,6.00,6.30,3.40,67,9745,insomnia
+229,33,female,hospitality,day,normal,former,228,5.80,6.10,4.10,82,6850,sleep apnea
+230,26,female,researcher,day,underweight,never,310,5.80,5.90,2.80,73,5875,none
+231,27,male,sales,night,normal,former,185,6.90,5.60,3.00,76,6618,insomnia
+232,55,male,freelancer,day,obese,never,210,4.60,7.30,5.50,75,5536,sleep apnea
+233,34,female,teacher,day,normal,former,275,4.20,6.00,5.10,74,6404,sleep apnea
+234,45,female,none,rotating/shift,overweight,never,157,5.30,6.30,3.40,66,12742,none
+235,19,male,sales,day,underweight,never,385,3.20,7.40,5.70,71,10134,none
+236,33,male,researcher,day,underweight,never,167,3.50,7.00,4.00,69,6502,none
+237,41,female,freelancer,day,normal,former,317,5.80,6.00,3.30,77,6487,none
+238,47,male,teacher,rotating/shift,overweight,former,248,3.70,6.30,5.00,69,7062,none
+239,18,female,researcher,day,underweight,never,302,2.80,7.20,6.00,70,12188,none
+240,46,female,hospitality,day,overweight,former,233,4.00,6.70,4.10,76,6960,insomnia
+241,22,female,driver,day,underweight,former,238,3.60,0.00,6.40,81,7714,insomnia
+242,33,male,software engineer,rotating/shift,normal,former,142,5.60,6.90,3.70,74,4553,insomnia
+243,31,male,freelancer,day,underweight,never,125,5.20,5.30,4.60,75,5689,none
+244,62,male,driver,rotating/shift,obese,never,108,6.00,5.80,3.80,82,8230,sleep apnea
+245,36,female,manufacturing,rotating/shift,underweight,former,306,5.30,6.20,2.90,81,8995,insomnia
+246,22,male,researcher,day,normal,never,389,1.00,6.60,6.50,72,5950,none
+247,34,female,driver,rotating/shift,underweight,former,304,4.60,6.60,3.70,74,7912,none
+248,45,female,manager,day,normal,former,323,4.80,6.80,5.90,74,8466,none
+249,26,male,office staff,day,underweight,never,337,4.60,6.70,4.30,78,6268,none
+250,19,male,healthcare worker,rotating/shift,underweight,never,271,6.40,5.80,3.20,86,9121,insomnia
+251,36,male,freelancer,rotating/shift,overweight,former,123,6.00,5.50,2.90,77,3697,none
+252,25,female,office staff,day,underweight,never,442,4.70,7.00,5.00,77,8928,insomnia
+253,70,female,hospitality,day,obese,former,89,4.00,6.80,4.70,73,4212,sleep apnea
+254,25,female,student,day,underweight,never,313,3.80,6.10,3.80,84,9853,none
+255,50,female,manufacturing,day,normal,never,229,3.80,7.20,5.80,76,6567,insomnia
+256,39,male,office staff,day,underweight,never,369,3.80,6.60,3.90,76,8040,none
+257,47,male,software engineer,day,obese,never,199,3.10,5.50,4.90,75,5941,sleep apnea
+258,40,female,sales,day,obese,never,300,4.80,5.90,5.20,81,9504,insomnia
+259,34,female,student,day,underweight,former,258,3.20,6.30,5.40,73,8505,sleep apnea
+260,29,male,software engineer,rotating/shift,normal,never,206,6.20,5.80,3.10,77,5491,none
+261,31,female,researcher,rotating/shift,underweight,never,240,5.70,6.10,3.20,77,7100,none
+262,42,female,teacher,day,normal,current,268,4.00,6.00,4.70,78,5962,none
+263,41,male,office staff,day,normal,never,326,5.30,5.50,3.80,78,6261,sleep apnea
+264,44,female,office staff,day,overweight,former,195,5.80,5.60,5.30,76,10203,none
+265,38,female,healthcare worker,day,overweight,never,172,6.30,6.10,2.70,81,5648,insomnia
+266,62,female,hospitality,day,obese,current,168,6.40,6.40,4.30,85,8362,sleep apnea
+267,21,female,manufacturing,day,underweight,former,303,5.00,6.10,4.20,75,8943,sleep apnea
+268,50,male,student,day,obese,never,331,6.30,5.40,2.40,71,8896,none
+269,32,male,researcher,day,normal,current,135,1.80,6.80,4.70,77,2880,none
+270,23,female,teacher,day,underweight,former,221,3.80,6.00,4.10,79,5862,none
+271,42,male,office staff,night,overweight,former,93,5.30,5.90,3.70,76,5030,none
+272,34,female,student,rotating/shift,normal,none,249,3.40,5.90,4.50,0,3410,none
+273,55,male,freelancer,day,obese,former,230,4.60,5.70,3.30,77,4081,sleep apnea
+274,37,female,freelancer,day,overweight,former,181,3.00,6.50,4.80,76,5410,none
+275,46,female,student,night,overweight,former,295,7.20,6.10,2.50,77,7475,insomnia
+276,64,female,office staff,day,obese,never,250,3.40,5.90,3.80,73,8779,sleep apnea
+277,18,female,freelancer,day,underweight,never,297,5.30,4.90,1.90,86,6660,insomnia
+278,21,male,sales,day,underweight,former,296,6.50,5.30,3.00,79,8116,none
+279,42,female,freelancer,day,obese,never,218,4.10,5.80,1.50,77,6963,none
+280,52,male,teacher,day,obese,former,146,5.30,5.60,3.60,79,7455,none
+281,30,male,researcher,day,overweight,former,170,5.60,5.30,5.30,78,6298,none
+282,49,female,freelancer,day,overweight,never,329,4.00,7.30,4.50,77,8237,none
+283,24,female,researcher,rotating/shift,underweight,never,278,4.90,6.90,3.80,81,4742,insomnia
+284,53,male,teacher,day,overweight,former,275,4.90,5.40,2.10,75,5166,sleep apnea
+285,44,male,researcher,day,overweight,former,350,4.60,6.60,4.10,61,7874,none
+286,45,female,manufacturing,day,normal,never,357,4.00,6.00,4.50,84,7838,none
+287,37,female,software engineer,rotating/shift,normal,current,143,6.60,6.10,2.00,85,3131,none
+288,49,female,healthcare worker,night,obese,never,321,6.40,5.90,3.60,84,8759,sleep apnea
+289,19,male,healthcare worker,day,underweight,never,324,7.80,4.90,3.40,84,10804,none
+290,42,male,manager,day,normal,former,300,6.60,6.00,3.50,76,8354,none
+291,40,male,manufacturing,rotating/shift,overweight,never,316,5.50,5.90,3.80,74,6082,insomnia
+292,31,male,sales,day,normal,former,208,4.30,6.70,4.90,71,7823,insomnia
+293,33,male,researcher,rotating/shift,underweight,former,161,4.00,6.40,3.50,85,4230,sleep apnea
+294,33,female,office staff,day,underweight,former,319,5.30,7.00,4.50,76,7705,none
+295,41,female,software engineer,rotating/shift,overweight,never,174,3.70,6.80,4.60,74,6070,sleep apnea
+296,34,male,driver,night,normal,never,137,6.00,6.80,2.90,70,7394,none
+297,38,female,healthcare worker,day,underweight,former,342,4.60,6.70,2.00,74,7884,none
+298,36,male,manufacturing,rotating/shift,normal,never,270,3.70,7.00,4.80,74,6486,none
+299,18,male,teacher,day,underweight,former,279,6.00,6.30,4.10,73,7896,none
+300,42,female,student,day,normal,never,381,3.70,6.10,4.40,78,6643,none
+301,21,female,hospitality,night,underweight,never,177,4.80,6.20,5.10,71,5725,insomnia
+302,61,female,teacher,day,obese,current,121,4.00,7.00,5.40,81,2613,none
+303,35,male,hospitality,rotating/shift,normal,former,136,5.50,5.00,1.90,77,3478,none
+304,41,female,hospitality,day,normal,never,229,3.10,6.50,6.10,70,6301,none
+305,18,male,manager,day,underweight,never,223,5.10,6.60,3.80,76,9782,none
+306,36,female,healthcare worker,rotating/shift,underweight,former,280,3.50,6.00,4.20,76,8476,sleep apnea
+307,34,male,researcher,day,normal,never,69,4.40,6.90,4.40,76,5572,none
+308,32,female,office staff,day,underweight,never,286,4.60,5.10,3.10,73,8528,none
+309,33,female,healthcare worker,rotating/shift,underweight,never,276,4.40,5.80,4.50,74,9001,none
+310,22,male,office staff,day,normal,former,254,4.90,6.50,4.40,70,9116,none
+311,39,male,driver,day,normal,former,268,3.00,5.70,5.00,74,7346,insomnia
+312,43,female,freelancer,rotating/shift,overweight,former,193,7.10,5.90,2.10,68,5588,none
+313,26,male,healthcare worker,day,underweight,never,275,4.90,7.10,5.00,72,6752,none
+314,42,female,manager,day,overweight,never,178,1.40,7.00,5.90,73,5090,sleep apnea
+315,20,female,teacher,day,underweight,never,344,4.50,6.80,4.90,77,9123,none
+316,27,female,driver,night,underweight,former,362,4.40,6.40,3.70,75,7739,insomnia
+317,27,male,researcher,night,normal,never,203,3.70,6.00,4.10,79,7036,insomnia
+318,29,male,manufacturing,rotating/shift,underweight,former,258,5.60,5.50,2.90,75,8174,none
+319,40,male,sales,day,obese,former,223,4.20,6.70,3.70,78,6260,none
+320,20,male,healthcare worker,rotating/shift,underweight,never,246,7.00,4.40,1.00,79,2777,insomnia
+321,26,male,driver,rotating/shift,underweight,never,238,4.40,6.20,2.90,82,5114,none
+322,40,female,driver,day,underweight,former,350,5.30,5.20,2.10,72,10259,insomnia
+323,18,female,freelancer,day,underweight,former,216,5.00,5.50,4.00,78,8674,insomnia
+324,26,male,office staff,day,normal,never,202,4.00,6.70,4.10,73,7015,insomnia
+325,36,female,teacher,day,underweight,never,284,4.80,6.40,3.20,75,6214,sleep apnea
+326,43,male,software engineer,day,normal,former,155,5.00,5.20,2.70,75,3582,insomnia
+327,63,male,hospitality,rotating/shift,obese,former,203,4.10,7.20,5.10,79,6198,none
+328,35,male,manager,rotating/shift,underweight,never,189,7.40,4.50,2.00,80,5900,insomnia
+329,36,female,manager,day,overweight,former,384,3.70,7.70,6.70,70,6774,none
+330,35,female,sales,night,normal,never,170,5.80,5.30,3.30,85,6543,insomnia
+331,47,female,sales,rotating/shift,overweight,never,162,6.50,6.10,3.10,81,6983,none
+332,NONE,female,teacher,rotating/shift,overweight,former,106,4.60,5.60,3.20,80,5267,sleep apnea
+333,43,male,teacher,day,normal,never,214,5.90,7.00,3.70,80,8529,none
+334,31,female,software engineer,rotating/shift,normal,never,190,6.70,6.00,3.60,77,4687,insomnia
+335,42,female,researcher,day,overweight,current,307,4.50,6.30,4.50,87,8666,none
+336,52,female,student,day,obese,former,312,3.60,7.20,4.90,73,7391,none
+337,50,male,sales,day,obese,former,104,5.50,5.30,2.80,85,8946,insomnia
+338,33,female,manufacturing,day,underweight,former,265,5.00,6.20,3.60,73,5889,insomnia
+339,42,male,driver,night,obese,former,62,6.70,5.40,2.50,84,3853,insomnia
+340,56,female,software engineer,rotating/shift,obese,former,0,5.10,6.70,5.20,81,3728,none
+341,43,female,healthcare worker,night,obese,never,62,6.60,6.00,4.60,77,3625,none
+342,24,female,driver,day,underweight,never,168,5.00,7.30,3.50,78,6111,none
+343,37,female,healthcare worker,night,normal,former,203,5.60,6.60,2.20,74,5715,insomnia
+344,26,male,sales,day,underweight,never,258,2.50,6.40,4.40,78,8661,none
+345,63,female,software engineer,day,obese,former,327,5.20,6.10,3.10,75,9024,insomnia
+346,19,female,hospitality,night,underweight,never,212,7.60,5.00,2.50,81,6469,insomnia
+347,46,male,hospitality,rotating/shift,overweight,current,174,4.80,6.60,5.30,84,5965,none
+348,43,female,freelancer,day,obese,former,135,6.00,6.40,4.30,77,3990,none
+349,44,male,freelancer,day,normal,former,216,3.70,6.90,5.00,77,8113,sleep apnea
+350,43,male,manufacturing,day,normal,never,377,2.00,8.10,5.60,78,8110,none
+351,40,female,software engineer,rotating/shift,underweight,former,151,4.10,6.40,3.40,79,6245,insomnia
+352,34,female,hospitality,rotating/shift,normal,never,13,4.70,6.30,3.80,75,5932,none
+353,30,male,manufacturing,day,underweight,never,301,2.90,7.60,5.10,66,7105,sleep apnea
+354,47,male,sales,day,overweight,former,410,3.10,7.20,6.40,81,4689,sleep apnea
+355,41,male,healthcare worker,night,normal,former,302,5.90,5.50,3.10,74,8436,none
+356,50,female,manufacturing,day,overweight,former,230,4.60,6.50,5.10,77,8749,sleep apnea
+357,27,female,healthcare worker,rotating/shift,underweight,former,154,5.70,6.10,3.80,83,4529,insomnia
+358,50,female,software engineer,day,obese,former,176,3.00,6.30,4.10,71,5205,sleep apnea
+359,30,male,sales,day,underweight,former,247,6.50,6.00,4.30,74,6263,none
+360,54,male,teacher,day,obese,former,241,2.10,6.80,4.30,71,6429,none
+361,32,female,office staff,day,underweight,never,259,5.10,6.80,4.10,80,11459,none
+362,26,male,student,day,underweight,former,263,5.30,6.60,2.50,83,10386,none
+363,44,male,healthcare worker,rotating/shift,normal,never,211,5.70,6.40,3.60,70,3699,none
+364,43,female,hospitality,day,overweight,current,221,5.40,6.40,2.40,88,4758,none
+365,34,male,manager,day,underweight,never,157,4.40,6.40,6.40,78,5645,none
+366,27,female,manager,day,underweight,never,109,5.00,6.70,4.30,70,4745,none
+367,18,female,driver,rotating/shift,underweight,never,276,3.20,6.30,3.80,79,6071,none
+368,60,male,manager,day,obese,never,135,4.60,5.40,3.30,78,3829,sleep apnea
+369,23,female,driver,day,underweight,former,173,5.70,6.80,6.10,76,7256,none
+370,26,male,driver,rotating/shift,underweight,never,164,3.90,7.10,4.60,82,3792,sleep apnea
+371,36,male,software engineer,day,normal,former,271,4.20,6.80,5.20,77,7433,sleep apnea
+372,28,female,freelancer,day,underweight,former,287,3.50,6.20,3.30,75,8714,insomnia
+373,42,male,software engineer,day,overweight,former,274,5.80,6.60,3.70,84,7733,sleep apnea
+374,42,female,teacher,rotating/shift,overweight,former,172,4.20,6.90,4.10,75,4781,none
+375,27,female,sales,rotating/shift,underweight,never,266,3.90,6.60,5.10,67,6359,none
+376,18,female,office staff,day,underweight,never,334,3.20,6.70,4.50,72,7650,none
+377,47,male,manufacturing,day,overweight,never,334,2.10,7.20,5.10,79,6114,none
+378,31,female,hospitality,rotating/shift,normal,never,158,5.80,6.90,4.40,70,6125,none
+379,39,female,office staff,rotating/shift,normal,former,185,4.30,5.80,3.20,78,4525,insomnia
+380,43,male,healthcare worker,day,normal,former,326,2.70,6.70,4.30,80,9819,sleep apnea
+381,35,female,researcher,rotating/shift,underweight,former,291,4.50,6.10,5.70,83,7991,none
+382,41,female,teacher,day,overweight,current,310,4.30,6.90,3.70,78,4012,none
+383,34,female,hospitality,night,underweight,never,203,5.90,5.30,1.90,81,5410,none
+384,35,male,student,day,normal,never,268,5.80,6.00,2.90,85,7794,none
+385,43,female,manager,day,underweight,never,232,5.30,6.10,3.40,74,9588,none
+386,18,female,driver,day,underweight,never,239,4.40,6.80,3.20,73,8062,none
+387,18,male,manufacturing,day,underweight,never,351,4.70,6.80,4.40,82,8204,none
+388,33,female,office staff,day,underweight,never,130,5.40,6.30,4.00,80,5355,none
+389,43,female,manager,day,overweight,never,298,5.30,6.50,4.80,68,7406,sleep apnea
+390,31,male,hospitality,rotating/shift,underweight,former,132,3.30,5.80,0.00,68,7469,none
+391,48,male,manager,day,overweight,former,197,5.20,6.90,4.60,70,7910,sleep apnea
+392,52,female,software engineer,day,obese,former,289,5.60,5.60,3.10,78,8171,sleep apnea
+393,44,female,manager,day,obese,former,168,5.40,6.10,3.90,69,4965,none
+394,39,female,hospitality,day,normal,never,319,3.50,7.90,5.50,73,5636,none
+395,39,female,manufacturing,day,normal,never,272,3.80,7.00,5.60,78,7778,none
+396,36,male,none,day,underweight,former,353,3.70,6.90,4.20,71,8514,none
+397,31,female,freelancer,day,normal,never,232,4.80,6.20,3.50,77,5279,none
+398,43,female,sales,day,obese,former,206,3.30,7.00,5.10,79,5682,none
+399,55,female,software engineer,rotating/shift,obese,former,163,6.50,5.40,1.40,78,6736,none
+400,24,male,hospitality,day,normal,former,246,5.80,5.90,2.80,77,4871,none
+401,30,male,student,day,normal,former,283,3.60,6.90,3.90,68,8478,none
+402,33,male,office staff,day,underweight,never,222,4.40,6.40,4.40,89,7110,sleep apnea
+403,38,female,software engineer,day,normal,never,221,2.70,6.90,4.60,72,8978,none
+404,36,female,researcher,rotating/shift,normal,former,230,2.90,6.00,3.30,71,7134,none
+405,43,female,researcher,day,obese,former,282,6.10,6.90,3.20,72,5868,sleep apnea
+406,38,male,healthcare worker,night,underweight,never,229,5.60,6.40,3.30,79,5997,sleep apnea
+407,32,female,manager,day,normal,never,222,6.20,6.10,2.90,72,6217,none
+408,35,male,office staff,day,normal,never,276,4.80,6.00,4.40,72,8542,none
+409,18,male,sales,day,underweight,former,396,4.30,6.50,3.60,75,9716,insomnia
+410,18,female,sales,day,underweight,never,229,3.30,7.00,5.70,70,8658,none
+411,36,female,student,day,normal,never,201,4.00,5.90,4.70,80,6598,none
+412,51,female,office staff,day,obese,never,282,3.50,6.80,5.20,77,8255,none
+413,35,male,student,day,underweight,never,224,6.20,6.10,4.30,90,6416,insomnia
+414,69,male,software engineer,day,obese,never,77,5.90,5.70,3.00,82,3468,sleep apnea
+415,33,female,healthcare worker,day,normal,former,199,4.80,6.30,4.30,82,4134,none
+416,45,female,healthcare worker,day,overweight,never,244,3.30,7.20,5.70,77,6084,none
+417,32,male,hospitality,day,normal,never,306,3.50,7.40,5.00,71,7339,none
+418,45,male,driver,day,obese,never,320,3.60,7.20,5.90,69,11503,sleep apnea
+419,42,male,researcher,day,overweight,current,70,5.60,6.10,4.10,79,5061,none
+420,51,male,manufacturing,rotating/shift,obese,former,155,5.30,6.40,3.70,75,4859,sleep apnea
+421,48,male,office staff,rotating/shift,normal,former,222,5.30,6.40,3.80,73,6061,insomnia
+422,24,female,manufacturing,day,underweight,former,235,7.20,5.70,4.10,72,8178,insomnia
+423,27,female,researcher,day,underweight,former,208,5.70,6.30,5.30,66,4878,none
+424,24,female,software engineer,day,underweight,never,420,3.00,7.60,5.80,68,10021,none
+425,43,,software engineer,day,normal,never,237,3.10,6.20,3.90,77,5268,sleep apnea
+426,23,female,manufacturing,day,underweight,former,359,3.40,6.20,5.20,75,7222,none
+427,37,male,student,day,normal,former,250,3.60,6.20,4.50,70,7008,none
+428,46,female,software engineer,night,obese,never,305,4.40,7.60,4.70,82,8443,sleep apnea
+429,43,male,freelancer,day,normal,never,160,4.80,5.60,3.70,87,7143,insomnia
+430,28,female,freelancer,rotating/shift,underweight,never,284,3.50,7.10,4.10,68,7624,none
+431,27,female,hospitality,day,normal,never,181,5.70,5.70,2.40,79,6473,none
+432,70,male,healthcare worker,rotating/shift,obese,former,200,5.80,5.70,3.10,83,5601,sleep apnea
+433,54,female,office staff,day,obese,never,177,5.30,6.00,2.10,85,3900,insomnia
+434,34,female,healthcare worker,day,underweight,never,243,5.30,6.20,4.40,82,4573,insomnia
+435,31,female,hospitality,night,normal,never,217,6.00,5.20,1.90,77,6433,insomnia
+436,38,female,software engineer,rotating/shift,normal,none,269,4.90,6.20,4.40,81,8372,insomnia
+437,32,male,office staff,rotating/shift,underweight,former,198,4.90,6.40,2.40,75,4780,sleep apnea
+438,18,female,freelancer,night,underweight,never,253,5.20,5.70,3.60,74,4762,insomnia
+439,26,male,student,day,normal,never,251,4.00,6.00,4.10,80,4621,none
+440,61,male,researcher,day,obese,former,328,4.60,6.50,4.90,70,7166,none
+441,50,male,driver,day,overweight,never,193,3.30,7.20,4.70,74,7121,sleep apnea
+442,45,male,office staff,day,obese,never,201,4.90,6.00,2.30,80,7506,sleep apnea
+443,52,male,student,day,obese,former,147,5.70,6.00,4.00,81,5087,insomnia
+444,41,male,healthcare worker,rotating/shift,overweight,never,325,7.00,5.50,0.00,84,9833,sleep apnea
+445,43,male,teacher,rotating/shift,overweight,former,166,3.50,0.00,4.00,68,5774,insomnia
+446,25,female,healthcare worker,day,underweight,never,284,4.00,7.30,4.80,71,11340,sleep apnea
+447,48,female,freelancer,day,obese,never,166,4.00,6.40,4.10,73,7454,none
+448,32,female,teacher,day,underweight,never,236,4.90,5.50,3.80,73,4835,insomnia
+449,48,male,freelancer,day,normal,former,261,3.40,5.80,4.40,81,7669,none
+450,43,male,manager,day,normal,former,194,6.10,6.80,3.50,83,6092,none
+451,18,female,manager,day,underweight,never,448,6.10,6.90,4.30,79,7434,insomnia
+452,30,male,freelancer,day,underweight,former,212,6.40,5.40,2.80,78,4143,insomnia
+453,39,male,office staff,day,underweight,never,169,5.40,5.60,3.60,75,3380,none
+454,50,female,freelancer,rotating/shift,overweight,former,275,4.60,5.70,3.50,75,5268,insomnia
+455,48,male,freelancer,day,overweight,never,315,5.30,7.00,4.60,77,8172,sleep apnea
+456,35,female,researcher,day,normal,former,218,2.20,7.50,6.00,77,4443,sleep apnea
+457,38,male,freelancer,day,underweight,never,172,4.30,6.50,3.80,71,6205,sleep apnea
+458,45,female,office staff,day,normal,former,76,4.80,6.70,4.30,78,7098,sleep apnea
+459,59,female,manager,rotating/shift,obese,former,153,6.10,5.30,2.30,69,4633,none
+460,57,female,driver,day,overweight,former,191,1.70,6.40,5.50,78,8842,sleep apnea
+461,41,female,driver,day,overweight,never,328,4.50,7.60,3.60,73,6188,none
+462,41,female,researcher,night,overweight,former,68,5.40,6.00,2.40,75,1539,insomnia
+463,30,female,sales,day,normal,never,237,6.10,6.70,3.60,69,7086,none
+464,41,female,driver,day,normal,former,212,4.30,6.70,4.60,73,5399,none
+465,39,male,student,day,normal,former,367,4.90,6.30,5.20,72,8786,insomnia
+466,26,female,office staff,day,underweight,never,284,0.00,5.50,4.30,70,11000,none
+467,25,female,office staff,day,underweight,never,315,5.10,7.50,4.50,80,8148,none
+468,56,male,manager,day,obese,former,175,4.00,6.70,4.40,81,5194,sleep apnea
+469,35,male,sales,day,overweight,never,129,3.50,5.80,4.40,68,5983,sleep apnea
+470,54,female,student,day,overweight,never,386,2.30,7.40,5.20,78,9610,none
+471,55,male,student,day,overweight,former,284,4.70,7.10,4.20,79,8915,insomnia
+472,37,female,healthcare worker,day,normal,former,443,4.10,7.30,5.40,81,10127,none
+473,24,female,freelancer,day,underweight,never,78,4.70,5.70,4.00,76,6106,insomnia
+474,43,male,sales,day,normal,former,195,4.50,6.60,3.10,77,7429,none
+475,23,female,office staff,rotating/shift,underweight,never,260,3.50,6.10,3.40,75,9493,insomnia
+476,24,male,researcher,day,underweight,never,229,5.80,6.20,3.50,81,5931,none
+477,18,male,hospitality,rotating/shift,underweight,never,296,4.00,6.30,3.90,78,7660,insomnia
+478,36,male,healthcare worker,day,normal,former,316,3.60,7.40,7.70,75,6339,none
+479,28,female,healthcare worker,night,underweight,never,294,5.50,4.80,2.90,83,8076,insomnia
+480,21,female,manager,day,underweight,former,380,5.90,6.30,4.80,68,9321,none
+481,35,male,healthcare worker,night,normal,never,227,7.00,5.30,1.90,79,5299,insomnia
+482,51,female,none,night,obese,never,290,5.70,5.10,1.50,79,5887,insomnia
+483,20,male,software engineer,day,underweight,never,275,3.50,7.40,6.00,73,6786,none
+484,22,male,software engineer,day,underweight,never,271,4.30,6.60,3.60,80,4163,none
+485,18,female,freelancer,day,underweight,never,344,4.10,6.50,4.90,74,10601,none
+486,41,female,student,day,underweight,former,358,3.90,7.80,7.40,74,8679,insomnia
+487,18,female,student,day,underweight,never,441,5.00,7.10,5.80,78,10029,insomnia
+488,62,female,freelancer,day,obese,former,234,5.00,4.90,3.60,73,6444,insomnia
+489,56,female,manager,day,obese,former,113,5.30,5.50,4.90,74,1500,sleep apnea
+490,31,male,office staff,day,underweight,never,128,5.60,6.20,3.30,71,8795,insomnia
+491,40,female,software engineer,night,normal,never,91,5.20,5.10,3.00,71,7040,none
+492,24,female,software engineer,day,underweight,never,325,3.70,6.40,3.60,72,8826,insomnia
+493,18,male,manager,night,underweight,never,251,4.80,5.00,1.90,71,4702,none
+494,34,male,driver,rotating/shift,normal,former,223,4.40,6.20,3.60,68,8031,sleep apnea
+495,28,male,hospitality,day,underweight,never,265,2.40,6.50,6.00,72,6955,none
+496,38,female,sales,day,obese,never,107,6.00,6.00,3.00,71,5888,insomnia
+497,28,female,manufacturing,day,underweight,never,371,3.00,7.40,7.10,63,6776,none
+498,21,female,healthcare worker,day,underweight,never,368,6.80,6.30,3.50,69,8899,none
+499,41,female,freelancer,day,overweight,former,229,5.40,6.00,4.70,77,5955,none
+500,47,male,freelancer,day,obese,never,243,4.80,7.10,5.30,79,6391,none
+501,32,male,student,day,underweight,former,416,4.90,5.70,3.30,85,10148,sleep apnea
+502,37,male,office staff,day,normal,never,247,2.20,6.60,5.30,68,8855,sleep apnea
+503,55,female,freelancer,day,obese,former,123,3.50,6.60,4.70,78,3593,sleep apnea
+504,55,female,freelancer,day,obese,never,85,4.90,6.90,3.70,79,8514,sleep apnea
+505,42,female,freelancer,day,overweight,never,219,3.90,7.70,6.40,74,7053,sleep apnea
+506,46,female,manufacturing,day,obese,former,282,5.30,7.00,4.80,78,6640,sleep apnea
+507,25,male,sales,day,underweight,never,313,5.00,6.60,4.50,70,8920,insomnia
+508,41,male,healthcare worker,day,overweight,former,213,6.20,5.90,3.00,74,9722,insomnia
+509,22,female,software engineer,day,underweight,never,184,5.20,5.70,3.80,74,7029,none
+510,52,female,teacher,day,overweight,former,156,4.30,7.20,4.30,84,5855,insomnia
+511,38,female,sales,day,underweight,former,268,4.30,7.40,5.90,84,7903,none
+512,NONE,male,office staff,day,normal,never,227,4.80,6.20,4.10,76,7617,insomnia
+513,62,male,researcher,day,obese,former,194,4.10,6.30,3.10,76,5165,sleep apnea
+514,39,male,driver,rotating/shift,overweight,former,317,4.10,5.90,3.40,79,10272,insomnia
+515,43,female,hospitality,rotating/shift,overweight,former,57,5.70,5.10,3.60,79,2744,sleep apnea
+516,27,female,manager,day,underweight,former,247,5.40,6.30,4.60,79,8074,none
+517,32,male,software engineer,rotating/shift,normal,former,210,0.00,5.80,1.90,74,7531,none
+518,44,male,manufacturing,rotating/shift,overweight,never,263,5.20,7.00,4.90,76,3499,none
+519,40,male,office staff,day,normal,never,176,2.30,6.20,5.80,70,6025,none
+520,18,male,researcher,day,underweight,never,287,3.90,7.00,3.80,69,7544,none
+521,56,male,student,day,obese,former,234,4.50,6.20,2.30,79,6783,none
+522,25,female,driver,rotating/shift,underweight,never,111,4.80,6.00,3.40,75,5666,insomnia
+523,NONE,female,teacher,day,underweight,never,287,3.30,8.00,6.10,72,8648,none
+524,33,female,office staff,rotating/shift,underweight,former,0,4.60,6.80,4.20,76,6098,none
+525,NONE,female,healthcare worker,rotating/shift,normal,former,254,4.60,5.30,1.70,72,6192,none
+526,48,female,software engineer,day,obese,former,315,3.80,6.50,5.40,75,7460,none
+527,NONE,male,healthcare worker,night,obese,never,160,7.00,5.10,2.00,81,8463,sleep apnea
+528,42,male,healthcare worker,day,normal,former,356,5.20,6.40,2.50,73,8204,insomnia
+529,34,male,teacher,rotating/shift,normal,never,203,3.90,5.90,3.20,81,8675,sleep apnea
+530,38,female,office staff,day,normal,never,316,3.40,7.30,0.00,87,9741,sleep apnea
+531,28,female,driver,rotating/shift,underweight,never,283,5.10,6.00,3.30,74,5859,sleep apnea
+532,43,female,teacher,rotating/shift,overweight,never,117,5.30,6.10,3.30,78,5931,insomnia
+533,39,female,student,day,normal,never,265,2.10,7.60,5.40,79,6188,none
+534,21,male,freelancer,rotating/shift,underweight,never,212,5.60,5.90,3.40,75,5114,none
+535,22,male,office staff,rotating/shift,underweight,never,207,3.00,6.50,4.70,78,4391,none
+536,42,female,researcher,day,normal,never,247,4.60,7.20,5.70,73,9379,sleep apnea
+537,44,female,sales,rotating/shift,normal,never,296,3.90,6.70,3.80,80,7419,none
+538,28,female,student,day,underweight,former,326,0.00,6.60,6.20,70,9846,none
+539,NONE,female,software engineer,rotating/shift,obese,former,168,3.40,6.00,4.30,80,8349,sleep apnea
+540,28,female,teacher,day,normal,never,360,6.30,5.50,2.10,88,7565,insomnia
+541,29,male,office staff,day,underweight,never,272,5.30,6.20,4.50,68,6654,none
+542,40,male,office staff,day,normal,never,300,3.90,7.30,6.40,74,8110,none
+543,18,male,student,day,underweight,never,379,2.60,6.20,4.00,73,6792,none
+544,23,male,hospitality,day,underweight,never,434,3.20,6.50,5.30,79,6741,none
+545,25,male,teacher,day,underweight,never,363,2.40,7.80,6.20,66,7931,none
+546,61,male,software engineer,day,obese,former,264,6.10,5.00,4.00,80,8848,sleep apnea
+547,34,female,manager,day,normal,former,175,5.80,5.90,5.60,78,7215,none
+548,27,female,freelancer,day,underweight,never,228,5.10,5.50,2.90,74,6095,none
+549,59,female,healthcare worker,rotating/shift,overweight,current,209,5.20,6.70,3.80,85,2717,none
+550,41,female,researcher,day,underweight,never,218,4.10,4.80,3.50,71,7869,none
+551,32,female,researcher,day,underweight,never,212,5.00,6.50,5.10,78,8847,insomnia
+552,51,female,healthcare worker,day,overweight,former,329,7.20,6.80,5.40,77,8216,sleep apnea
+553,18,male,teacher,day,underweight,former,324,3.10,7.30,5.60,66,7974,none
+554,36,female,manufacturing,rotating/shift,underweight,never,184,3.00,7.10,4.60,78,4372,none
+555,28,female,sales,none,underweight,never,310,1.30,7.60,7.10,73,7438,sleep apnea
+556,33,female,software engineer,day,underweight,never,234,4.10,6.40,5.10,84,9752,none
+557,42,female,office staff,day,normal,never,215,5.40,6.60,5.60,72,7640,none
+558,31,male,healthcare worker,day,underweight,former,438,4.90,5.80,4.50,76,10367,none
+559,33,,researcher,day,overweight,former,238,5.20,6.20,4.60,74,5599,insomnia
+560,32,female,manager,day,normal,former,240,4.20,6.20,3.10,79,4236,insomnia
+561,39,male,teacher,day,overweight,former,115,3.80,6.20,4.60,78,6712,sleep apnea
+562,40,female,healthcare worker,day,underweight,never,308,4.20,6.00,4.60,71,8812,insomnia
+563,NONE,male,office staff,day,obese,former,292,3.80,6.70,4.70,83,7895,sleep apnea
+564,36,male,healthcare worker,night,underweight,never,308,5.50,7.10,4.60,68,6372,none
+565,27,female,healthcare worker,day,underweight,never,385,6.30,5.80,2.20,79,5340,none
+566,43,male,manufacturing,rotating/shift,obese,former,188,4.00,6.30,5.20,69,8627,none
+567,28,male,manager,rotating/shift,underweight,former,184,5.30,6.00,3.40,82,8370,insomnia
+568,27,male,office staff,day,underweight,never,207,4.80,6.30,4.10,79,6734,sleep apnea
+569,38,male,hospitality,day,normal,former,223,5.10,6.50,4.10,77,6951,insomnia
+570,34,male,office staff,rotating/shift,underweight,former,0,5.30,5.60,3.90,73,7290,sleep apnea
+571,51,male,student,day,overweight,never,310,3.30,7.20,4.10,68,6837,none
+572,41,female,office staff,day,overweight,former,255,2.20,7.50,6.10,78,5639,insomnia
+573,45,female,student,day,overweight,never,270,3.10,7.10,5.50,79,7321,none
+574,57,female,software engineer,rotating/shift,obese,former,164,2.90,6.20,3.20,77,3996,sleep apnea
+575,35,female,researcher,day,overweight,never,212,3.80,7.90,5.80,70,5920,none
+576,37,female,student,day,underweight,never,362,4.00,6.70,4.50,75,11767,none
+577,18,female,teacher,day,underweight,never,269,5.70,5.80,3.80,76,6543,none
+578,38,male,office staff,day,overweight,former,161,3.30,6.80,4.50,72,7235,none
+579,43,male,software engineer,day,normal,former,326,2.90,7.10,5.60,74,7931,sleep apnea
+580,38,female,driver,rotating/shift,overweight,former,203,2.90,7.10,5.50,76,5387,sleep apnea
+581,18,female,researcher,day,underweight,former,90,4.30,5.70,4.00,76,5163,none
+582,34,male,teacher,rotating/shift,normal,never,185,3.40,6.70,3.90,82,3962,insomnia
+583,45,female,healthcare worker,day,overweight,former,163,2.30,7.10,6.00,77,6968,sleep apnea
+584,43,male,student,day,normal,former,352,3.40,7.10,5.40,74,8588,none
+585,42,female,driver,rotating/shift,overweight,former,221,7.20,5.10,1.40,76,5958,none
+586,36,female,hospitality,day,underweight,former,306,2.70,7.10,6.60,70,3678,none
+587,55,male,healthcare worker,rotating/shift,obese,former,309,5.20,5.70,3.30,84,7211,sleep apnea
+588,34,female,software engineer,rotating/shift,normal,former,206,5.40,6.60,3.60,86,5699,none
+589,43,female,driver,day,obese,former,146,3.00,7.30,5.70,69,4783,none
+590,63,female,healthcare worker,night,obese,former,204,3.20,7.20,7.30,77,5760,sleep apnea
+591,33,male,hospitality,rotating/shift,normal,former,225,5.30,5.80,3.50,66,9631,none
+592,36,female,student,day,normal,former,232,3.80,6.70,3.90,75,9088,insomnia
+593,42,female,hospitality,day,overweight,never,130,4.80,5.90,4.20,77,1884,sleep apnea
+594,38,male,freelancer,night,overweight,never,0,7.20,4.40,1.90,70,5821,none
+595,34,male,healthcare worker,day,underweight,former,235,5.50,6.30,4.10,70,0,insomnia
+596,46,female,manufacturing,rotating/shift,obese,never,203,6.10,5.40,2.20,71,5203,insomnia
+597,34,female,manufacturing,day,underweight,former,301,0.00,6.40,4.30,72,8352,insomnia
+598,41,male,manufacturing,day,obese,never,259,5.20,5.90,3.10,74,7341,sleep apnea
+599,18,female,student,day,underweight,never,347,3.60,5.80,3.70,74,5955,none
+600,48,male,driver,day,obese,former,182,3.80,7.60,6.50,75,4521,insomnia
+601,42,female,hospitality,rotating/shift,underweight,former,335,3.90,7.50,5.00,65,8869,insomnia
+602,36,male,student,day,normal,never,264,6.00,7.20,3.40,80,8479,sleep apnea
+603,21,female,software engineer,day,underweight,never,260,6.50,6.80,4.10,83,6378,none
+604,59,male,teacher,day,obese,never,250,4.40,7.10,4.50,88,6625,sleep apnea
+605,30,female,office staff,day,underweight,former,287,4.70,7.10,3.40,84,6375,none
+606,19,male,software engineer,day,underweight,never,384,4.60,6.30,4.10,85,8346,sleep apnea
+607,45,male,office staff,rotating/shift,overweight,former,145,4.10,6.80,5.00,79,6922,none
+608,20,male,manager,day,underweight,former,263,3.70,7.60,6.80,71,8676,none
+609,18,female,teacher,day,underweight,never,306,4.40,6.80,5.90,71,7314,none
+610,54,male,manager,day,obese,former,223,6.10,6.00,3.10,72,6618,sleep apnea
+611,49,female,teacher,day,obese,never,187,5.00,6.20,4.00,75,5571,none
+612,52,female,freelancer,day,overweight,never,121,3.30,0.00,4.60,72,8269,sleep apnea
+613,37,male,hospitality,day,normal,current,189,3.20,6.60,5.80,73,4802,none
+614,48,female,sales,day,overweight,never,237,5.20,6.70,4.00,71,9112,insomnia
+615,43,male,teacher,day,obese,former,281,2.50,6.40,6.40,68,10186,sleep apnea
+616,46,male,software engineer,day,normal,never,240,3.00,6.60,5.50,72,8652,none
+617,56,female,teacher,day,obese,former,179,4.00,6.70,3.80,76,9149,sleep apnea
+618,44,female,healthcare worker,night,normal,never,295,5.60,5.70,3.60,82,5995,insomnia
+619,38,female,software engineer,day,underweight,former,283,3.80,5.70,3.80,79,10089,sleep apnea
+620,39,female,software engineer,day,overweight,never,270,3.50,7.00,5.50,72,6175,insomnia
+621,23,male,healthcare worker,rotating/shift,underweight,never,166,8.00,5.30,2.00,74,4546,none
+622,49,female,manager,day,normal,never,272,5.20,6.00,4.00,80,10409,none
+623,49,female,manufacturing,night,obese,former,200,5.40,5.50,2.50,78,7811,insomnia
+624,35,male,student,day,normal,never,259,3.70,7.50,5.20,70,9587,none
+625,42,male,driver,day,overweight,never,179,5.00,6.80,4.30,78,6350,none
+626,44,male,hospitality,rotating/shift,normal,never,250,4.10,5.30,2.40,81,5053,sleep apnea
+627,44,female,hospitality,day,obese,never,148,3.50,6.70,4.80,73,6027,none
+628,NONE,male,driver,day,underweight,former,324,4.40,6.80,4.20,85,7205,none
+629,29,male,hospitality,day,normal,never,171,4.10,7.10,4.90,70,2685,sleep apnea
+630,34,male,researcher,day,underweight,former,305,4.50,6.10,4.30,80,7082,insomnia
+631,42,male,manufacturing,rotating/shift,obese,former,204,7.60,4.70,3.40,80,6951,insomnia
+632,46,female,hospitality,night,obese,former,130,6.70,6.00,1.90,84,3668,insomnia
+633,39,male,healthcare worker,day,normal,never,260,6.20,7.20,5.50,67,8274,none
+634,45,female,student,day,normal,never,335,2.70,8.10,6.20,68,9087,none
+635,41,female,student,day,normal,never,444,2.10,7.30,5.30,71,11749,none
+636,56,female,researcher,day,obese,former,316,2.60,7.00,5.60,78,7616,none
+637,45,female,teacher,day,underweight,never,305,4.30,6.60,4.70,82,5575,none
+638,48,male,manager,day,underweight,never,218,5.20,6.90,4.20,69,4642,none
+639,30,male,teacher,rotating/shift,underweight,former,347,3.70,6.60,4.80,69,7583,sleep apnea
+640,45,male,software engineer,day,obese,never,213,4.20,7.10,5.80,77,7151,sleep apnea
+641,60,female,teacher,rotating/shift,obese,former,124,5.50,5.60,3.30,83,5969,sleep apnea
+642,37,female,healthcare worker,day,underweight,former,237,5.70,5.20,2.90,75,4690,none
+643,28,male,software engineer,day,underweight,never,317,4.30,7.80,7.10,69,7523,none
+644,45,male,freelancer,day,obese,never,151,5.40,6.00,4.30,83,3566,sleep apnea
+645,51,female,sales,rotating/shift,obese,former,274,7.40,5.90,3.60,77,8344,sleep apnea
+646,33,female,manufacturing,day,underweight,never,326,2.80,7.10,7.10,77,6376,sleep apnea
+647,18,male,software engineer,day,underweight,never,165,2.30,6.50,5.70,69,6123,none
+648,36,female,hospitality,night,normal,former,193,3.70,5.90,3.20,87,4449,sleep apnea
+649,26,male,software engineer,day,underweight,never,248,5.20,6.10,3.20,74,8911,none
+650,54,male,office staff,day,obese,never,157,3.60,5.80,4.00,78,7397,sleep apnea
+651,29,,student,night,underweight,former,298,7.70,5.50,1.00,85,6412,insomnia
+652,34,male,office staff,day,normal,former,158,6.30,5.80,2.30,74,6728,insomnia
+653,39,female,teacher,rotating/shift,overweight,former,211,5.80,0.00,3.00,84,5298,sleep apnea
+654,23,female,manufacturing,rotating/shift,underweight,former,216,3.60,6.30,6.10,79,2825,none
+655,39,male,software engineer,day,normal,never,200,4.20,6.70,5.20,67,5651,none
+656,44,male,freelancer,day,obese,never,84,3.50,6.50,5.30,77,5516,sleep apnea
+657,53,female,driver,day,normal,former,239,3.80,6.70,3.90,79,5628,insomnia
+658,43,female,teacher,day,overweight,never,138,5.70,6.10,3.40,84,5040,insomnia
+659,34,male,software engineer,day,normal,former,224,5.60,5.70,1.40,79,5479,none
+660,40,male,sales,day,overweight,former,268,5.10,5.90,3.20,77,7583,insomnia
+661,52,male,healthcare worker,day,obese,former,101,6.00,5.50,3.00,83,7307,none
+662,57,male,none,day,obese,never,224,4.70,6.40,4.60,86,5395,sleep apnea
+663,49,female,hospitality,day,obese,never,131,5.80,6.20,3.40,72,4565,sleep apnea
+664,43,male,teacher,day,obese,former,181,2.20,7.00,7.20,75,7124,none
+665,30,male,researcher,rotating/shift,underweight,never,193,4.50,6.90,3.10,80,7803,none
+666,33,male,student,day,underweight,never,295,4.80,6.60,3.20,85,6406,none
+667,34,female,teacher,day,overweight,never,144,6.60,5.80,1.70,74,6137,sleep apnea
+668,37,female,software engineer,day,normal,never,224,3.50,7.00,6.30,74,4751,insomnia
+669,35,female,manager,day,normal,former,381,3.40,7.60,5.10,72,11002,none
+670,52,male,manufacturing,day,obese,former,297,4.20,7.50,5.80,66,8592,none
+671,38,female,manager,day,overweight,never,342,6.30,5.80,3.30,77,7754,insomnia
+672,40,female,software engineer,day,normal,never,315,2.70,6.60,4.50,69,8598,none
+673,53,female,freelancer,night,obese,former,212,4.90,5.60,2.60,77,6506,sleep apnea
+674,25,male,freelancer,rotating/shift,normal,former,235,5.10,5.70,3.30,74,4516,insomnia
+675,46,female,researcher,day,normal,never,209,5.70,6.00,3.70,0,5655,none
+676,37,male,student,rotating/shift,normal,former,313,3.70,6.90,3.00,73,8002,sleep apnea
+677,38,female,freelancer,day,underweight,never,337,4.50,7.20,4.20,70,8379,insomnia
+678,26,female,driver,day,underweight,never,173,4.40,6.90,4.70,77,8144,none
+679,38,male,student,day,normal,never,320,6.00,5.50,1.90,79,5616,insomnia
+680,20,male,healthcare worker,day,underweight,never,294,6.30,6.30,3.10,76,9541,sleep apnea
+681,51,female,hospitality,rotating/shift,obese,current,94,3.70,5.40,2.30,77,5213,insomnia
+682,44,female,freelancer,rotating/shift,normal,never,271,4.20,6.30,4.40,74,5032,sleep apnea
+683,42,female,teacher,night,overweight,never,275,6.80,5.10,1.30,82,6146,insomnia
+684,43,male,driver,day,obese,current,96,4.40,5.30,3.60,80,5732,sleep apnea
+685,38,female,student,day,normal,never,349,4.70,5.80,3.00,78,10246,insomnia
+686,66,male,manufacturing,day,obese,former,168,4.00,5.70,4.00,78,3123,sleep apnea
+687,30,male,office staff,day,underweight,never,352,4.80,5.60,4.30,77,7657,insomnia
+688,40,female,manager,rotating/shift,overweight,former,211,5.50,6.00,4.00,77,8192,sleep apnea
+689,38,female,manufacturing,rotating/shift,overweight,never,143,5.40,5.80,5.20,74,6089,insomnia
+690,37,female,manager,rotating/shift,underweight,former,281,3.80,5.90,4.70,73,5384,insomnia
+691,54,male,healthcare worker,night,overweight,former,321,5.70,5.30,2.70,76,6887,insomnia
+692,49,male,manufacturing,day,obese,former,278,3.50,6.70,4.90,78,9765,sleep apnea
+693,47,female,hospitality,day,normal,former,112,6.40,5.80,4.20,79,8238,none
+694,39,male,driver,day,normal,never,332,3.40,6.30,5.10,78,6078,none
+695,54,female,healthcare worker,day,obese,former,95,4.40,7.30,3.90,81,6268,none
+696,31,female,student,night,underweight,never,289,4.00,7.50,5.60,71,4611,sleep apnea
+697,30,female,sales,night,underweight,never,291,6.90,5.70,1.70,84,7939,insomnia
+698,43,male,software engineer,night,obese,never,88,3.80,5.80,4.60,85,6174,insomnia
+699,50,female,manufacturing,rotating/shift,overweight,never,273,4.60,6.80,5.90,70,9390,none
+700,18,male,hospitality,day,underweight,never,373,4.00,7.70,5.20,67,10672,sleep apnea
+701,18,male,researcher,day,underweight,never,227,4.40,6.00,4.00,70,4488,insomnia
+702,36,female,driver,day,underweight,former,215,4.30,5.90,4.90,73,5870,sleep apnea
+703,40,male,student,day,normal,never,272,3.70,6.30,4.30,72,8277,none
+704,47,female,sales,day,normal,never,226,6.00,5.50,2.30,78,5958,none
+705,47,male,manager,day,overweight,former,337,4.10,6.30,3.70,69,9671,sleep apnea
+706,59,female,teacher,day,obese,former,104,5.10,6.10,4.20,75,5551,insomnia
+707,34,female,office staff,day,underweight,former,172,5.10,6.00,4.50,78,5276,none
+708,30,male,sales,day,underweight,never,222,4.10,6.90,4.40,72,6678,insomnia
+709,43,female,freelancer,day,normal,never,126,6.00,5.90,3.30,81,6748,none
+710,51,female,office staff,day,obese,never,91,4.30,6.20,4.90,74,6172,none
+711,54,male,office staff,day,obese,former,206,5.00,7.10,4.20,86,8054,none
+712,42,female,office staff,day,overweight,former,123,5.90,7.10,4.90,81,5517,none
+713,23,male,healthcare worker,rotating/shift,underweight,never,94,6.40,6.20,4.80,81,2521,sleep apnea
+714,48,male,healthcare worker,day,obese,never,167,4.30,6.20,2.70,78,3885,insomnia
+715,42,female,driver,day,normal,never,268,1.50,7.70,5.50,71,7508,none
+716,35,female,hospitality,rotating/shift,underweight,former,186,4.60,6.20,4.10,85,5147,none
+717,29,male,hospitality,day,underweight,never,262,4.20,6.60,6.20,73,5247,sleep apnea
+718,48,female,healthcare worker,night,overweight,never,256,5.50,5.50,4.20,80,6365,insomnia
+719,33,female,teacher,day,normal,never,240,3.60,6.10,3.30,72,7686,none
+720,21,male,driver,day,underweight,never,189,4.10,6.20,4.30,70,5930,none
+721,29,female,hospitality,day,underweight,never,276,2.40,6.50,6.30,73,8429,none
+722,32,male,healthcare worker,rotating/shift,underweight,former,356,7.10,5.70,2.20,80,8655,sleep apnea
+723,32,male,sales,day,underweight,former,313,4.50,6.60,3.90,72,6536,insomnia
+724,33,male,researcher,day,normal,never,261,4.70,7.00,5.00,67,6007,insomnia
+725,23,male,office staff,day,underweight,never,226,3.00,7.40,5.90,73,4238,none
+726,28,female,freelancer,day,underweight,never,254,6.10,7.40,4.10,78,6447,none
+727,39,male,manufacturing,rotating/shift,obese,former,188,4.50,6.20,2.90,76,4910,none
+728,60,male,hospitality,day,obese,former,151,3.90,7.10,5.10,76,6978,sleep apnea
+729,43,male,sales,day,normal,former,299,5.70,6.70,4.10,72,10391,none
+730,67,female,manager,day,obese,former,269,4.90,7.00,3.70,80,6101,sleep apnea
+731,29,male,hospitality,day,underweight,former,309,4.40,6.20,6.50,84,5826,none
+732,40,male,software engineer,day,obese,former,346,5.00,5.40,4.00,74,6042,none
+733,41,male,manager,day,obese,former,168,7.50,5.60,2.80,71,5847,sleep apnea
+734,27,male,driver,rotating/shift,underweight,never,117,5.00,5.40,1.60,74,4847,none
+735,27,male,student,day,underweight,never,417,4.50,6.70,5.90,71,9286,none
+736,53,male,healthcare worker,rotating/shift,obese,former,62,7.20,5.30,2.90,75,2555,insomnia
+737,41,male,freelancer,day,overweight,former,218,4.20,6.70,4.00,81,8870,none
+738,36,female,driver,day,normal,never,205,4.00,6.10,3.40,77,8769,none
+739,40,female,manager,day,underweight,former,187,5.70,6.00,3.90,73,6206,none
+740,35,male,researcher,day,normal,never,275,2.80,7.30,4.50,71,7566,none
+741,41,male,hospitality,day,obese,former,63,3.90,6.10,5.30,76,3318,sleep apnea
+742,43,female,healthcare worker,rotating/shift,normal,never,196,6.10,5.80,1.60,80,8553,none
+743,18,male,hospitality,day,underweight,never,199,5.10,5.50,5.10,76,5496,none
+744,44,female,driver,night,normal,never,186,3.00,6.10,3.10,73,6704,sleep apnea
+745,40,female,software engineer,day,overweight,former,237,4.10,7.10,5.20,67,11205,sleep apnea
+746,54,male,freelancer,day,overweight,never,197,3.80,5.60,3.30,66,8840,sleep apnea
+747,46,male,teacher,day,normal,former,286,3.20,7.00,5.50,84,5585,none
+748,63,female,office staff,day,obese,never,253,3.30,7.40,4.40,75,6318,sleep apnea
+749,39,female,hospitality,day,normal,never,355,3.30,7.10,4.30,72,7422,none
+750,37,female,hospitality,rotating/shift,normal,never,250,5.70,5.60,3.30,75,4957,insomnia
+751,29,female,office staff,rotating/shift,normal,former,190,3.80,5.70,5.10,69,6610,insomnia
+752,48,male,healthcare worker,day,obese,never,225,5.30,6.10,4.10,78,5810,none
+753,34,female,researcher,night,normal,never,0,6.30,6.60,3.10,73,6418,sleep apnea
+754,25,female,manager,day,underweight,never,272,4.40,6.70,6.20,77,4838,insomnia
+755,18,male,software engineer,day,underweight,former,395,5.60,5.70,4.20,81,7578,none
+756,44,female,driver,night,overweight,former,228,6.00,5.40,1.60,76,6469,sleep apnea
+757,49,female,hospitality,day,obese,former,354,6.30,5.90,2.30,82,8445,none
+758,50,female,manager,rotating/shift,overweight,never,103,7.00,5.50,2.20,76,3465,sleep apnea
+759,32,female,sales,day,underweight,never,153,4.60,5.70,2.00,73,7249,none
+760,46,male,sales,night,obese,former,159,4.90,5.90,3.20,77,3972,none
+761,46,male,researcher,day,overweight,current,21,4.70,6.70,3.50,79,3744,sleep apnea
+762,18,male,researcher,day,normal,never,309,4.10,5.90,2.70,75,6905,none
+763,51,male,driver,night,obese,never,133,7.10,4.50,1.80,80,4510,insomnia
+764,37,female,sales,rotating/shift,normal,never,124,6.10,5.30,2.00,87,7245,none
+765,22,female,driver,night,underweight,former,215,5.00,6.50,2.90,79,6758,none
+766,42,female,teacher,rotating/shift,overweight,former,173,2.60,6.00,3.30,70,5912,sleep apnea
+767,18,female,sales,none,underweight,former,401,6.20,5.90,1.80,70,9052,none
+768,43,male,hospitality,day,overweight,former,281,6.10,6.30,3.70,77,8720,insomnia
+769,21,male,researcher,day,underweight,never,247,3.90,5.80,3.90,75,6559,none
+770,27,female,manager,day,normal,never,110,3.90,6.90,4.80,72,4590,none
+771,38,female,researcher,night,normal,never,154,6.40,5.40,4.00,74,7557,insomnia
+772,25,male,freelancer,rotating/shift,underweight,former,232,3.10,6.90,5.80,56,6205,none
+773,37,male,teacher,day,overweight,former,245,4.90,6.20,3.40,78,6373,none
+774,38,female,freelancer,day,normal,former,226,2.50,6.30,4.90,74,8358,none
+775,39,female,researcher,day,overweight,former,168,2.60,6.40,4.30,70,8012,sleep apnea
+776,18,male,sales,night,underweight,never,166,7.20,6.40,2.50,78,6010,none
+777,41,female,office staff,day,normal,never,340,4.30,6.20,4.50,68,7184,insomnia
+778,46,female,student,day,obese,former,274,6.60,6.10,0.00,80,9690,none
+779,49,male,software engineer,day,obese,former,245,3.10,6.80,6.20,70,7201,sleep apnea
+780,56,male,freelancer,day,obese,former,248,5.10,6.00,3.00,75,5197,sleep apnea
+781,41,female,hospitality,day,overweight,never,206,4.70,5.10,1.60,79,7311,none
+782,40,female,driver,night,normal,former,96,7.30,4.90,2.50,80,6906,insomnia
+783,50,female,manufacturing,rotating/shift,obese,former,282,4.70,6.50,3.20,79,6813,none
+784,60,female,manufacturing,day,obese,former,264,4.40,6.50,3.60,84,7084,insomnia
+785,56,female,manufacturing,day,obese,former,229,5.40,6.80,3.70,73,9261,none
+786,30,male,hospitality,night,underweight,never,269,5.90,5.10,3.90,78,7065,insomnia
+787,39,female,freelancer,day,normal,never,160,3.60,6.80,4.30,69,4917,none
+788,35,male,manager,rotating/shift,overweight,former,202,6.60,6.70,4.70,84,7148,none
+789,28,male,office staff,day,normal,never,223,3.10,6.60,4.80,71,6685,none
+790,36,male,healthcare worker,day,normal,current,224,4.90,6.40,2.50,81,9400,none
+791,28,female,manager,day,underweight,never,248,5.30,6.40,3.90,72,9895,none
+792,36,male,sales,day,normal,never,281,6.30,6.50,4.70,76,7140,insomnia
+793,35,female,researcher,day,normal,never,231,5.30,6.90,6.20,82,6903,none
+794,48,female,teacher,day,obese,never,144,3.90,6.10,2.40,81,7648,none
+795,39,male,freelancer,day,normal,former,247,5.00,7.40,5.20,73,8277,none
+796,42,male,manufacturing,day,normal,never,179,3.20,7.30,4.50,79,8179,sleep apnea
+797,48,female,software engineer,day,normal,former,345,4.40,6.90,4.10,76,8159,none
+798,56,male,freelancer,day,obese,former,273,4.80,5.90,3.10,77,8794,sleep apnea
+799,54,male,software engineer,day,obese,never,229,4.50,6.70,4.50,81,6089,sleep apnea
+800,27,male,manager,day,underweight,never,209,4.50,0.00,4.30,75,6995,insomnia
+801,34,male,student,day,underweight,never,295,4.50,6.70,4.80,68,8704,sleep apnea
+802,18,male,researcher,day,underweight,never,467,1.80,7.50,6.40,59,6606,sleep apnea
+803,55,male,manager,day,obese,former,116,6.90,6.50,3.80,76,4976,sleep apnea
+804,48,male,software engineer,rotating/shift,obese,former,180,4.60,6.40,3.40,76,2016,none
+805,21,female,software engineer,day,underweight,never,301,4.70,6.80,4.80,80,7419,insomnia
+806,31,male,manufacturing,day,underweight,never,343,4.40,6.50,3.20,65,6753,sleep apnea
+807,48,male,office staff,day,obese,current,80,3.80,7.80,5.40,80,5341,none
+808,54,male,student,day,overweight,never,387,4.10,0.00,6.30,77,7527,insomnia
+809,37,female,teacher,day,underweight,never,305,4.20,6.90,6.50,84,7018,none
+810,60,male,healthcare worker,day,obese,former,155,6.80,5.90,4.10,86,5233,sleep apnea
+811,70,male,healthcare worker,rotating/shift,obese,former,128,7.70,5.20,1.60,83,8020,insomnia
+812,35,male,software engineer,day,normal,former,196,2.60,6.90,5.60,77,7199,none
+813,37,male,software engineer,day,underweight,never,237,4.10,6.10,4.40,81,7922,none
+814,42,male,manager,day,overweight,former,156,6.00,6.30,3.50,73,6049,insomnia
+815,22,male,teacher,day,underweight,never,243,3.50,7.10,3.90,84,7660,none
+816,43,female,student,day,overweight,former,343,5.80,6.60,4.90,79,10399,sleep apnea
+817,40,female,sales,rotating/shift,overweight,never,244,4.30,4.70,2.30,78,7859,insomnia
+818,48,male,hospitality,rotating/shift,overweight,never,82,6.80,6.40,3.50,76,5825,insomnia
+819,33,female,sales,day,underweight,never,357,5.70,7.00,4.60,71,8643,none
+820,40,female,healthcare worker,rotating/shift,overweight,former,142,4.50,5.40,3.70,69,3806,sleep apnea
+821,26,male,none,day,underweight,never,361,3.90,7.30,5.20,71,3615,insomnia
+822,37,male,researcher,day,normal,never,247,1.90,7.60,7.20,71,6779,sleep apnea
+823,41,female,office staff,day,overweight,never,235,4.70,6.80,4.60,76,4643,insomnia
+824,41,male,software engineer,day,obese,former,185,4.50,5.70,3.30,71,8003,insomnia
+825,NONE,male,software engineer,day,normal,former,251,0.80,7.60,7.50,78,7336,none
+826,48,female,sales,rotating/shift,obese,former,34,6.10,5.40,3.90,77,5247,insomnia
+827,41,male,office staff,day,normal,former,242,5.00,6.60,3.90,81,7859,none
+828,18,male,software engineer,night,underweight,never,206,4.80,6.00,4.10,70,6237,insomnia
+829,42,female,researcher,day,overweight,former,187,2.90,6.40,6.50,71,4449,none
+830,25,female,manufacturing,night,underweight,never,0,3.60,5.80,4.20,75,6706,none
+831,30,female,hospitality,day,underweight,never,214,5.90,5.40,3.00,67,6454,none
+832,31,female,healthcare worker,rotating/shift,underweight,former,306,4.30,6.10,4.10,74,8244,none
+833,37,female,software engineer,day,normal,never,236,2.90,7.00,6.40,74,7175,none
+834,47,male,manufacturing,rotating/shift,obese,never,141,5.40,5.80,3.30,80,4464,insomnia
+835,37,male,manager,day,normal,former,289,4.90,5.60,4.40,78,6586,sleep apnea
+836,NONE,female,software engineer,rotating/shift,underweight,never,254,5.00,6.00,4.00,78,6669,insomnia
+837,52,female,manufacturing,night,obese,never,232,3.90,5.50,3.40,76,6615,sleep apnea
+838,18,,student,day,underweight,never,283,2.30,7.70,7.30,66,8739,none
+839,31,female,teacher,day,underweight,never,263,4.20,5.50,3.20,79,7821,insomnia
+840,37,female,manager,rotating/shift,normal,former,224,6.40,5.90,2.20,78,4145,none
+841,36,male,manager,day,normal,never,191,5.60,6.50,3.70,74,7629,none
+842,48,female,teacher,rotating/shift,obese,former,356,5.50,6.30,2.90,66,10521,none
+843,41,male,manager,day,normal,never,274,4.90,7.50,3.70,84,6130,none
+844,52,male,researcher,day,obese,never,156,2.90,7.00,4.60,75,5204,sleep apnea
+845,46,female,hospitality,day,obese,never,206,3.20,7.00,6.20,81,5964,none
+846,55,female,freelancer,day,obese,former,118,4.90,5.30,3.10,81,8728,none
+847,33,female,manager,day,underweight,former,269,5.00,5.70,3.40,80,8013,insomnia
+848,28,female,healthcare worker,rotating/shift,underweight,never,182,3.30,6.80,4.90,79,6521,insomnia
+849,40,male,office staff,day,obese,never,193,5.20,7.50,4.60,82,7187,sleep apnea
+850,23,female,office staff,rotating/shift,underweight,never,198,5.20,6.90,3.70,76,8429,none
+851,36,female,healthcare worker,day,underweight,never,391,5.40,6.10,3.80,76,5283,none
+852,39,female,manager,day,overweight,former,181,4.70,6.00,4.80,75,7246,none
+853,70,female,researcher,rotating/shift,obese,former,204,5.10,6.50,4.80,82,5319,none
+854,38,male,healthcare worker,day,underweight,never,166,4.30,6.40,4.40,79,8083,insomnia
+855,38,female,hospitality,rotating/shift,underweight,never,238,3.60,7.70,5.10,78,7712,none
+856,46,female,driver,day,normal,never,198,0.00,6.90,5.10,81,4597,none
+857,37,male,office staff,day,normal,never,291,4.50,6.40,3.90,77,5072,none
+858,45,male,manufacturing,day,obese,never,297,1.90,7.50,5.80,75,8512,none
+859,27,female,teacher,day,underweight,former,121,5.10,5.80,3.50,77,6225,insomnia
+860,38,female,sales,day,underweight,never,378,4.60,6.80,4.50,83,9252,none
+861,39,male,sales,rotating/shift,underweight,never,82,4.70,5.50,4.40,71,4647,none
+862,32,male,sales,rotating/shift,underweight,never,285,7.30,5.70,1.00,78,7990,insomnia
+863,25,male,student,day,underweight,never,242,4.40,6.50,2.70,82,2903,none
+864,32,female,healthcare worker,night,underweight,never,252,4.70,5.80,4.20,76,4255,sleep apnea
+865,47,female,driver,rotating/shift,obese,former,231,4.30,6.90,4.10,79,6913,sleep apnea
+866,40,male,office staff,night,normal,never,192,4.80,6.20,2.70,82,6822,sleep apnea
+867,31,male,student,day,underweight,former,261,4.60,6.70,5.10,81,7670,insomnia
+868,41,female,researcher,day,obese,former,168,3.40,6.20,4.40,76,9865,sleep apnea
+869,44,male,hospitality,day,normal,former,304,4.80,6.60,3.40,79,8704,none
+870,26,male,office staff,day,normal,never,179,4.30,5.90,2.60,73,10643,none
+871,24,female,manager,day,underweight,former,260,5.90,5.60,3.20,82,8023,none
+872,52,male,hospitality,day,obese,former,282,5.20,5.80,3.20,84,5996,insomnia
+873,47,male,sales,day,obese,never,129,4.10,7.30,4.40,79,4365,insomnia
+874,52,male,researcher,day,obese,former,112,4.60,5.90,3.10,78,4055,none
+875,43,female,freelancer,day,overweight,former,219,6.40,6.10,2.50,71,6346,sleep apnea
+876,59,female,driver,day,obese,former,279,4.20,6.50,5.70,80,6188,sleep apnea
+877,32,male,manager,day,underweight,never,274,4.90,6.20,4.70,79,6225,insomnia
+878,26,male,teacher,day,underweight,former,142,4.50,6.10,5.90,69,8653,none
+879,NONE,female,driver,night,underweight,never,319,4.10,5.90,3.30,71,7468,none
+880,47,female,office staff,day,normal,former,228,3.10,6.90,5.00,75,6348,insomnia
+881,54,male,teacher,day,obese,former,268,5.90,6.20,4.50,82,7397,insomnia
+882,20,male,manager,day,underweight,former,224,5.20,7.00,3.70,74,4704,none
+883,18,male,driver,day,underweight,former,166,6.40,5.40,2.00,73,3617,insomnia
+884,19,male,teacher,day,underweight,never,305,3.90,6.40,4.30,71,7022,none
+885,38,male,sales,day,overweight,former,283,5.10,5.90,4.20,67,9337,none
+886,41,male,student,day,overweight,never,212,4.30,6.20,4.00,70,8846,insomnia
+887,39,male,researcher,day,overweight,never,42,5.20,6.20,3.70,77,3200,sleep apnea
+888,50,female,manager,day,obese,current,206,3.70,6.40,5.00,80,7796,sleep apnea
+889,30,male,manufacturing,day,underweight,never,300,2.40,6.80,4.80,81,7576,sleep apnea
+890,48,female,teacher,day,obese,former,173,3.40,0.00,4.20,77,4052,none
+891,41,female,teacher,day,normal,former,222,3.80,5.90,3.90,76,7405,insomnia
+892,51,male,manager,night,overweight,none,304,6.20,5.50,1.30,77,7066,none
+893,50,female,software engineer,day,obese,never,26,3.00,6.40,6.80,74,3770,none
+894,32,female,office staff,night,underweight,never,314,2.90,6.10,4.50,72,10964,sleep apnea
+895,43,female,teacher,day,obese,former,174,2.50,7.60,4.60,77,8114,insomnia
+896,42,female,hospitality,day,overweight,never,114,6.00,7.00,3.50,83,5100,none
+897,34,male,office staff,day,normal,never,224,5.10,5.50,3.30,78,6337,none
+898,46,male,office staff,day,normal,never,160,3.90,6.70,5.40,74,7307,none
+899,36,female,healthcare worker,day,normal,never,212,4.70,5.30,5.20,80,6250,none
+900,40,female,software engineer,day,normal,never,234,6.60,5.90,3.70,83,6035,none
+901,42,female,office staff,day,obese,former,332,5.70,6.10,2.70,73,7167,sleep apnea
+902,33,female,student,day,underweight,former,245,4.70,6.00,3.90,68,5989,none
+903,49,female,manager,rotating/shift,obese,never,104,5.90,5.80,3.70,86,4267,sleep apnea
+904,53,female,healthcare worker,day,overweight,current,174,5.00,6.50,3.70,79,7346,sleep apnea
+905,47,female,office staff,day,overweight,former,309,3.10,7.70,5.50,76,7474,sleep apnea
+906,41,female,teacher,day,obese,never,155,5.00,6.10,3.60,83,5455,sleep apnea
+907,NONE,male,researcher,day,normal,former,280,3.30,6.20,5.90,69,7821,insomnia
+908,43,female,driver,day,normal,former,164,5.40,5.90,3.70,69,8852,insomnia
+909,NONE,female,office staff,day,obese,never,258,4.30,5.60,0.00,68,6795,none
+910,51,female,software engineer,day,overweight,never,125,3.60,6.60,4.10,73,5000,insomnia
+911,48,male,sales,day,overweight,never,327,5.70,6.40,3.60,80,10081,sleep apnea
+912,41,male,sales,day,normal,never,224,6.10,6.30,4.40,71,6941,insomnia
+913,44,female,software engineer,rotating/shift,normal,never,271,2.90,6.40,4.60,70,6737,none
+914,49,female,student,day,overweight,never,374,4.50,6.60,4.50,68,8740,sleep apnea
+915,50,male,office staff,rotating/shift,obese,former,21,3.80,6.00,3.90,70,2465,none
+916,NONE,female,teacher,day,normal,never,249,3.80,6.70,5.00,72,7391,none
+917,60,male,teacher,day,obese,current,149,5.40,6.70,2.40,80,7494,sleep apnea
+918,36,male,researcher,day,underweight,never,281,5.80,6.00,3.70,79,7651,insomnia
+919,35,male,office staff,day,underweight,former,193,6.80,5.90,1.30,79,5933,sleep apnea
+920,28,male,manager,day,underweight,never,264,2.40,6.60,4.00,75,8718,none
+921,18,female,hospitality,day,underweight,never,297,1.70,6.70,7.40,72,8633,none
+922,27,male,software engineer,rotating/shift,underweight,former,279,6.50,4.70,1.20,70,5842,none
+923,22,female,healthcare worker,day,underweight,none,282,6.10,6.80,3.60,76,6588,none
+924,45,female,student,day,normal,never,285,4.10,6.60,5.70,78,5348,none
+925,26,male,hospitality,day,underweight,never,154,6.30,5.70,3.60,83,4464,none
+926,25,female,software engineer,night,underweight,former,194,5.70,5.80,4.40,76,6554,none
+927,48,male,software engineer,day,obese,former,238,3.20,6.30,4.70,76,6251,none
+928,56,female,sales,day,obese,former,100,8.30,5.50,2.50,80,7012,insomnia
+929,32,female,driver,day,normal,former,87,4.90,6.10,3.30,76,4658,sleep apnea
+930,23,female,hospitality,rotating/shift,underweight,former,178,3.00,5.70,5.00,76,7581,none
+931,19,male,healthcare worker,rotating/shift,underweight,former,0,5.80,6.50,4.00,82,6937,none
+932,25,male,software engineer,day,underweight,never,272,3.90,7.60,5.90,69,7388,none
+933,46,female,driver,day,obese,former,270,5.10,7.10,6.60,0,10355,none
+934,35,female,office staff,day,underweight,never,358,3.00,5.70,4.00,70,8093,none
+935,52,male,office staff,night,obese,never,128,6.10,4.70,1.90,75,2551,sleep apnea
+936,20,male,student,day,underweight,never,378,4.50,7.30,5.40,76,8016,none
+937,52,female,software engineer,day,obese,former,123,2.10,7.00,6.30,69,6138,sleep apnea
+938,51,male,manager,day,obese,former,198,0.00,6.10,3.90,78,4373,none
+939,28,female,healthcare worker,night,underweight,never,332,3.60,6.90,4.90,69,9326,none
+940,19,female,sales,day,underweight,never,325,2.90,6.90,6.20,76,7314,none
+941,28,male,researcher,rotating/shift,normal,former,87,5.10,6.20,4.50,80,6155,none
+942,42,male,freelancer,day,normal,former,285,5.70,5.80,3.20,77,9497,none
+943,26,male,software engineer,day,underweight,former,403,2.60,7.30,5.00,77,7473,none
+944,48,male,software engineer,rotating/shift,obese,never,106,6.80,5.10,2.10,93,7815,none
+945,27,female,sales,day,underweight,never,250,1.90,7.10,6.90,79,7898,none
+946,64,male,researcher,day,obese,former,119,4.30,6.20,4.00,75,4138,sleep apnea
+947,55,female,healthcare worker,night,obese,never,116,4.20,6.80,4.10,76,6474,sleep apnea
+948,26,female,software engineer,day,underweight,never,287,4.70,5.70,2.30,82,10212,none
+949,47,female,manufacturing,day,overweight,never,154,5.30,6.00,1.80,74,8244,sleep apnea
+950,35,male,hospitality,day,underweight,former,374,3.70,6.20,4.80,77,7567,none
+951,51,male,healthcare worker,day,obese,former,155,6.50,5.40,3.00,81,4042,sleep apnea
+952,31,female,sales,day,underweight,former,263,5.10,6.20,4.60,74,7778,none
+953,56,male,driver,none,obese,former,207,5.10,6.10,4.80,77,7489,insomnia
+954,18,male,sales,day,underweight,never,202,5.50,5.90,3.10,77,7584,none
+955,21,male,healthcare worker,day,underweight,never,302,4.90,6.80,4.90,67,7308,none
+956,33,female,student,day,underweight,never,403,4.90,5.90,3.30,69,9161,sleep apnea
+957,44,male,sales,day,normal,never,141,6.00,5.90,3.80,78,3113,insomnia
+958,41,female,software engineer,rotating/shift,obese,never,38,6.60,5.20,1.90,78,6210,insomnia
+959,68,female,sales,day,obese,former,234,6.70,5.20,1.50,74,7903,sleep apnea
+960,46,female,healthcare worker,rotating/shift,overweight,former,238,5.60,6.30,2.10,78,9023,sleep apnea
+961,32,female,sales,day,normal,never,149,6.20,6.40,2.20,66,8771,sleep apnea
+962,47,female,manager,day,obese,never,94,5.00,7.30,4.90,84,5376,sleep apnea
+963,28,male,sales,rotating/shift,underweight,former,223,6.30,6.00,4.20,82,6258,insomnia
+964,54,female,researcher,rotating/shift,obese,former,68,6.90,5.40,2.30,77,5517,none
+965,44,male,driver,rotating/shift,underweight,former,233,6.20,5.10,2.40,80,3218,insomnia
+966,24,male,manager,day,underweight,former,276,6.80,5.30,2.70,75,7553,sleep apnea
+967,36,male,freelancer,day,underweight,former,376,6.20,6.30,2.90,82,8116,none
+968,18,male,healthcare worker,rotating/shift,underweight,former,231,6.40,4.80,2.20,80,4323,none
+969,29,male,teacher,rotating/shift,underweight,former,245,5.70,6.00,3.00,69,6048,none
+970,35,female,freelancer,day,underweight,never,278,3.00,7.30,6.60,67,7489,none
+971,34,male,driver,day,underweight,never,255,3.80,7.00,5.40,76,7040,none
+972,26,female,software engineer,day,underweight,never,192,5.00,5.30,5.20,76,7318,none
+973,33,male,student,day,overweight,never,287,6.70,6.30,4.70,84,8155,none
+974,45,male,hospitality,day,underweight,former,247,4.00,6.40,4.70,83,4691,none
+975,23,female,manufacturing,night,underweight,former,165,5.10,6.20,3.70,67,8042,insomnia
+976,36,female,office staff,day,normal,former,274,6.50,5.60,2.10,75,6481,insomnia
+977,53,female,manager,rotating/shift,obese,former,206,5.90,5.50,4.20,68,10751,insomnia
+978,57,male,manager,day,obese,former,202,7.40,5.90,1.90,74,4429,none
+979,42,male,driver,night,overweight,former,145,5.70,6.10,2.90,82,7803,sleep apnea
+980,38,female,manager,day,normal,never,226,4.90,6.50,4.20,77,6207,none
+981,24,female,manufacturing,night,underweight,never,202,7.60,6.20,2.90,66,5640,none
+982,37,female,freelancer,day,normal,former,221,3.50,7.60,6.10,78,9883,none
+983,61,male,software engineer,day,obese,former,227,3.90,0.00,4.00,78,2464,sleep apnea
+984,36,female,sales,day,normal,former,151,4.00,5.90,3.90,75,5984,none
+985,26,female,manager,day,normal,never,131,5.80,4.80,1.30,84,6906,insomnia
+986,34,female,driver,day,underweight,former,220,5.80,6.20,4.70,71,6556,none
+987,30,male,student,day,underweight,former,328,2.60,7.20,6.00,74,6500,none
+988,27,female,freelancer,rotating/shift,underweight,never,324,5.60,6.00,4.10,81,7598,none
+989,41,female,freelancer,day,overweight,former,117,6.90,6.40,2.20,79,6453,sleep apnea
+990,NONE,female,software engineer,day,normal,former,182,3.80,5.70,4.00,72,5072,insomnia
+991,31,female,teacher,day,normal,never,294,4.10,6.60,5.40,78,8552,none
+992,38,male,office staff,day,normal,never,277,4.40,6.60,4.40,74,7331,none
+993,52,male,hospitality,rotating/shift,overweight,former,264,4.60,6.30,2.70,63,7777,sleep apnea
+994,46,female,office staff,rotating/shift,normal,former,163,7.00,6.10,2.50,81,6182,sleep apnea
+995,41,female,sales,day,normal,former,229,3.10,7.10,3.70,75,6786,none
+996,26,female,manager,rotating/shift,underweight,never,314,5.20,6.20,4.00,81,8650,none
+997,34,male,healthcare worker,day,normal,never,247,4.60,6.40,3.90,72,4847,none
+998,32,female,manager,day,normal,never,249,4.90,6.00,4.60,0,0,none
+999,35,female,sales,rotating/shift,normal,never,188,6.00,5.60,3.10,78,3677,insomnia
+1000,36,male,healthcare worker,rotating/shift,normal,current,117,6.20,6.00,2.20,82,8645,sleep apnea
+1001,34,male,manufacturing,rotating/shift,normal,former,248,3.40,7.60,4.00,70,7779,sleep apnea
+1002,35,male,manufacturing,rotating/shift,normal,never,235,3.20,4.80,1.70,74,5091,none
+1003,44,,sales,day,overweight,never,213,5.00,6.20,4.10,86,9509,none
+1004,42,female,sales,rotating/shift,overweight,former,243,5.70,5.10,2.70,70,3866,none
+1005,39,female,software engineer,day,normal,never,211,4.10,6.50,3.90,76,4468,insomnia
+1006,20,female,healthcare worker,day,underweight,never,266,4.80,5.80,4.20,75,6372,none
+1007,36,male,driver,day,underweight,never,262,4.10,5.60,3.10,79,8319,insomnia
+1008,18,female,freelancer,day,underweight,former,352,4.50,5.60,3.00,74,5554,none
+1009,43,female,student,day,normal,former,464,3.30,5.70,4.90,81,10946,sleep apnea
+1010,44,male,none,day,overweight,former,239,5.50,6.00,3.80,78,7390,none
+1011,45,female,student,night,overweight,former,153,6.20,5.20,3.00,79,6501,none
+1012,35,male,healthcare worker,day,underweight,never,244,4.80,6.40,4.40,76,2137,none
+1013,28,female,student,rotating/shift,normal,never,250,4.10,5.50,3.50,79,6591,none
+1014,24,female,office staff,day,underweight,never,335,4.00,6.10,3.70,80,8604,sleep apnea
+1015,38,female,freelancer,night,underweight,former,161,5.90,5.40,3.50,73,7599,none
+1016,41,female,driver,day,overweight,never,232,3.50,6.50,4.60,78,5179,sleep apnea
+1017,36,male,teacher,day,normal,never,263,4.90,5.80,4.70,71,7978,insomnia
+1018,31,male,student,rotating/shift,underweight,never,389,5.40,7.30,3.60,75,9278,none
+1019,37,male,hospitality,day,normal,current,264,2.60,7.50,6.30,78,6561,none
+1020,26,female,freelancer,day,underweight,never,140,3.10,6.80,4.90,79,4724,none
+1021,18,female,software engineer,day,underweight,never,232,5.00,6.50,4.10,77,5577,none
+1022,48,female,sales,day,obese,former,115,3.60,6.10,4.20,76,1500,insomnia
+1023,43,female,hospitality,day,overweight,former,311,7.70,5.60,3.60,81,9471,insomnia
+1024,29,female,software engineer,day,normal,never,0,3.40,7.70,7.10,72,4660,insomnia
+1025,36,male,freelancer,day,normal,never,87,3.40,6.10,3.90,74,6092,none
+1026,34,female,none,day,underweight,never,179,4.70,6.90,4.40,79,4546,none
+1027,18,male,sales,rotating/shift,underweight,never,180,6.20,5.30,2.10,83,7738,none
+1028,40,female,teacher,day,overweight,former,251,3.10,7.20,5.50,69,7059,none
+1029,18,female,freelancer,day,underweight,former,342,4.10,6.50,4.40,82,7721,sleep apnea
+1030,41,female,manufacturing,rotating/shift,overweight,former,166,5.20,6.10,2.60,74,8004,insomnia
+1031,34,male,manufacturing,day,normal,former,213,3.40,6.20,4.40,72,6635,sleep apnea
+1032,20,male,office staff,day,underweight,never,171,5.10,6.10,3.80,68,9318,none
+1033,33,female,hospitality,day,normal,never,346,2.00,6.50,4.70,63,8106,none
+1034,24,female,healthcare worker,day,underweight,former,363,3.70,6.80,6.10,78,10413,none
+1035,41,female,teacher,day,normal,former,266,4.90,7.50,4.70,77,8836,none
+1036,18,female,manufacturing,rotating/shift,underweight,never,362,4.10,6.90,4.00,73,6501,none
+1037,46,female,manager,day,obese,never,103,5.10,6.30,4.70,79,3671,sleep apnea
+1038,36,female,hospitality,day,normal,never,173,6.00,5.80,2.60,82,7055,sleep apnea
+1039,41,male,manager,rotating/shift,normal,former,341,4.40,6.10,3.40,74,9698,none
+1040,39,male,office staff,night,overweight,never,336,4.50,6.50,4.40,75,3126,none
+1041,27,female,driver,day,underweight,never,300,4.70,6.70,4.30,72,8190,sleep apnea
+1042,25,male,software engineer,day,underweight,never,375,2.70,7.90,5.20,68,8368,none
+1043,38,female,sales,day,obese,never,193,5.80,6.20,4.00,76,5267,sleep apnea
+1044,19,female,healthcare worker,day,underweight,former,284,4.90,6.10,3.60,76,6539,insomnia
+1045,41,female,healthcare worker,night,underweight,never,219,6.30,5.10,4.10,80,5795,sleep apnea
+1046,30,female,manufacturing,day,underweight,never,140,6.80,5.60,3.50,70,4231,none
+1047,46,female,hospitality,rotating/shift,obese,former,169,3.60,5.20,2.90,79,2733,sleep apnea
+1048,26,female,hospitality,day,underweight,never,239,4.90,6.60,4.40,70,4614,insomnia
+1049,31,female,healthcare worker,day,normal,never,298,5.00,6.20,4.80,77,7054,none
+1050,27,male,freelancer,rotating/shift,underweight,former,228,4.50,5.10,4.40,70,7747,insomnia
+1051,43,male,researcher,rotating/shift,normal,former,263,4.80,6.00,2.30,65,9356,none
+1052,31,female,manufacturing,night,normal,former,227,8.20,5.90,1.80,80,6612,none
+1053,42,female,sales,day,underweight,never,166,4.40,6.90,4.50,75,6908,none
+1054,34,female,software engineer,day,normal,never,211,4.60,6.70,5.50,72,6393,none
+1055,23,male,driver,night,underweight,former,127,5.00,5.90,3.90,75,4251,sleep apnea
+1056,30,female,software engineer,day,underweight,never,234,4.60,7.20,4.50,68,3240,insomnia
+1057,40,female,office staff,rotating/shift,normal,never,276,4.50,5.60,2.20,78,8090,insomnia
+1058,46,male,hospitality,rotating/shift,normal,former,163,4.30,6.60,5.40,81,5638,sleep apnea
+1059,41,female,manager,day,overweight,former,153,4.50,7.20,5.10,82,8172,sleep apnea
+1060,54,male,manufacturing,rotating/shift,obese,never,195,6.90,5.80,2.50,78,5912,none
+1061,NONE,male,freelancer,night,underweight,never,210,6.80,5.30,1.80,80,4984,none
+1062,18,female,teacher,day,underweight,never,274,3.00,8.00,6.60,72,8174,none
+1063,22,male,manufacturing,rotating/shift,underweight,never,272,3.60,6.30,4.20,64,8646,insomnia
+1064,37,female,software engineer,rotating/shift,overweight,never,146,4.80,6.10,5.70,89,2908,sleep apnea
+1065,36,male,software engineer,day,underweight,never,206,2.70,6.90,5.40,80,7478,none
+1066,32,female,healthcare worker,day,normal,never,173,4.50,6.10,3.00,73,4928,none
+1067,29,female,healthcare worker,night,underweight,never,121,6.10,5.50,3.00,88,5266,insomnia
+1068,46,,hospitality,rotating/shift,normal,former,269,5.00,6.20,6.20,69,5597,sleep apnea
+1069,53,female,freelancer,day,obese,former,62,6.10,6.10,3.70,71,6764,none
+1070,55,female,office staff,day,obese,former,283,3.60,6.70,6.40,75,5207,none
+1071,43,female,office staff,day,overweight,former,260,4.10,6.50,4.30,75,6959,none
+1072,18,male,hospitality,night,underweight,never,216,4.90,5.80,3.40,75,6275,none
+1073,34,male,student,day,normal,former,273,5.20,5.70,3.20,80,7085,none
+1074,48,female,manager,day,overweight,current,195,5.50,5.90,4.20,87,4242,insomnia
+1075,37,female,researcher,rotating/shift,underweight,never,202,4.80,5.50,1.90,78,7819,none
+1076,21,female,hospitality,rotating/shift,underweight,never,239,3.90,7.50,2.80,75,6053,none
+1077,42,male,researcher,rotating/shift,normal,never,176,4.60,7.10,5.30,73,6870,insomnia
+1078,29,male,software engineer,day,underweight,never,207,4.30,6.30,3.40,78,7578,none
+1079,26,male,student,night,underweight,former,422,5.90,5.20,3.90,78,6509,insomnia
+1080,39,female,student,day,normal,former,289,3.70,6.90,5.10,80,7898,sleep apnea
+1081,31,female,office staff,day,underweight,never,221,3.90,7.00,4.20,73,3955,none
+1082,48,male,driver,night,obese,never,153,5.10,6.10,4.60,76,5227,none
+1083,28,female,driver,night,underweight,never,200,7.10,6.40,2.90,78,8292,none
+1084,32,,office staff,day,underweight,never,286,2.70,7.40,6.80,70,9152,none
+1085,18,female,sales,day,underweight,never,290,5.40,6.00,3.60,76,7269,none
+1086,41,male,student,day,normal,never,185,4.10,7.30,5.30,71,6289,none
+1087,41,male,office staff,day,normal,former,363,5.40,6.50,4.10,66,8085,none
+1088,39,male,manufacturing,day,overweight,former,247,3.90,6.90,6.10,76,5132,sleep apnea
+1089,53,male,office staff,day,overweight,former,235,4.10,7.40,4.60,76,5097,sleep apnea
+1090,38,male,freelancer,day,normal,never,370,3.20,6.00,5.50,74,8319,none
+1091,63,male,driver,day,obese,former,178,4.20,6.10,3.90,78,6596,insomnia
+1092,21,female,manufacturing,day,underweight,never,285,5.20,6.80,5.60,76,6995,none
+1093,57,female,student,day,obese,former,252,2.40,6.50,6.60,64,8195,none
+1094,56,female,researcher,day,obese,former,121,4.00,7.20,5.00,71,4490,sleep apnea
+1095,32,male,healthcare worker,day,normal,former,250,3.80,7.20,4.00,74,8774,sleep apnea
+1096,43,male,researcher,day,overweight,former,294,5.20,5.90,4.10,82,4929,insomnia
+1097,53,female,manufacturing,day,obese,never,194,3.70,7.00,6.60,78,5126,none
+1098,37,female,sales,day,normal,never,255,6.00,6.20,4.20,76,6285,none
+1099,29,male,teacher,day,underweight,former,251,5.10,6.20,2.20,73,8407,sleep apnea
+1100,25,female,office staff,day,underweight,former,177,4.40,6.00,3.70,74,6699,none
+1101,40,male,office staff,day,underweight,current,300,5.50,5.80,1.80,77,8475,insomnia
+1102,39,female,healthcare worker,rotating/shift,normal,never,35,5.90,5.00,3.10,75,2957,none
+1103,22,male,freelancer,night,underweight,never,201,6.60,5.50,2.30,0,7414,none
+1104,42,female,manager,day,overweight,former,191,5.30,5.80,4.30,71,4913,sleep apnea
+1105,20,female,student,rotating/shift,underweight,former,214,3.80,6.30,6.40,71,4855,none
+1106,36,,freelancer,day,normal,former,314,5.60,6.30,2.50,72,7097,none
+1107,47,female,software engineer,day,overweight,never,112,6.90,5.30,5.10,80,5909,none
+1108,35,male,student,day,normal,never,269,2.10,8.40,6.60,72,8428,none
+1109,20,female,manufacturing,night,underweight,never,129,5.60,4.60,2.40,73,6210,insomnia
+1110,57,male,student,day,obese,former,164,5.80,6.20,3.20,81,5762,insomnia
+1111,34,male,software engineer,day,underweight,never,341,6.10,6.00,3.30,75,4866,insomnia
+1112,37,male,freelancer,rotating/shift,normal,former,227,5.80,5.10,2.80,80,11932,insomnia
+1113,39,female,teacher,day,normal,former,130,4.00,7.20,5.30,79,4551,none
+1114,60,male,driver,night,obese,former,104,6.50,5.70,4.30,74,4084,insomnia
+1115,21,female,software engineer,day,underweight,never,218,2.90,6.90,6.10,66,8964,none
+1116,18,male,office staff,day,underweight,former,319,5.30,6.20,3.70,78,7785,none
+1117,26,female,software engineer,rotating/shift,underweight,never,280,3.20,5.50,3.30,69,6493,none
+1118,47,female,student,night,obese,never,224,7.00,6.20,1.90,76,5552,sleep apnea
+1119,44,female,hospitality,day,normal,current,173,7.20,5.70,2.00,86,5992,sleep apnea
+1120,30,male,sales,rotating/shift,underweight,never,185,6.00,6.20,4.70,79,6903,sleep apnea
+1121,35,female,healthcare worker,rotating/shift,normal,former,353,4.80,6.40,4.90,75,7818,sleep apnea
+1122,33,female,driver,night,normal,current,187,5.40,6.40,4.00,78,6287,insomnia
+1123,23,female,researcher,day,underweight,former,279,4.30,6.10,4.70,76,6683,sleep apnea
+1124,46,male,researcher,night,overweight,never,75,5.40,5.10,2.40,80,6185,none
+1125,44,male,office staff,day,normal,never,272,4.40,6.60,4.40,84,7089,none
+1126,23,female,teacher,day,underweight,never,371,3.90,7.10,4.50,75,4084,none
+1127,54,female,researcher,none,obese,never,247,3.40,6.00,5.00,78,8974,insomnia
+1128,37,female,healthcare worker,day,normal,never,236,3.50,6.00,4.10,75,10447,sleep apnea
+1129,42,male,student,day,normal,former,349,4.30,7.60,5.30,74,8740,none
+1130,26,male,healthcare worker,rotating/shift,underweight,never,264,7.10,5.60,2.30,70,9158,insomnia
+1131,40,female,healthcare worker,night,normal,former,234,5.60,5.50,3.10,74,7977,insomnia
+1132,39,female,student,day,normal,never,392,5.00,7.20,3.10,77,9712,sleep apnea
+1133,40,male,researcher,night,underweight,never,203,3.70,6.60,3.90,68,6852,sleep apnea
+1134,42,female,driver,rotating/shift,obese,former,94,5.90,6.10,1.80,81,3998,none
+1135,38,female,manager,day,normal,former,238,4.30,6.50,3.70,82,7344,sleep apnea
+1136,42,male,driver,day,normal,current,344,4.10,6.60,3.70,76,6697,none
+1137,55,female,teacher,day,obese,former,165,4.90,6.90,4.90,76,5761,sleep apnea
+1138,29,male,sales,night,normal,never,117,6.30,4.90,3.70,81,7138,insomnia
+1139,25,female,freelancer,day,underweight,never,269,8.00,5.30,2.40,78,7997,none
+1140,40,male,healthcare worker,rotating/shift,obese,former,287,5.60,6.10,4.40,85,4709,sleep apnea
+1141,26,female,office staff,day,normal,former,250,4.80,6.70,5.00,82,7153,none
+1142,18,male,office staff,day,underweight,former,328,3.50,6.00,4.20,75,6011,none
+1143,47,male,driver,rotating/shift,overweight,former,299,6.50,5.30,2.80,81,4220,none
+1144,42,male,manufacturing,day,normal,former,253,4.60,6.60,3.20,73,9723,sleep apnea
+1145,34,male,office staff,rotating/shift,normal,former,232,4.20,6.40,3.90,74,8352,none
+1146,25,female,manufacturing,day,underweight,never,255,4.00,5.80,3.50,63,5641,none
+1147,37,female,freelancer,day,normal,never,217,3.90,6.00,4.70,80,8190,none
+1148,45,male,sales,day,obese,former,91,6.20,5.90,3.80,75,7511,sleep apnea
+1149,40,female,freelancer,day,normal,never,273,2.30,6.70,4.30,70,6351,none
+1150,31,male,healthcare worker,night,underweight,never,306,6.10,6.00,2.30,69,7687,sleep apnea
+1151,46,male,researcher,day,normal,never,123,3.70,6.60,3.00,85,4774,none
+1152,37,male,manufacturing,day,normal,never,299,4.10,6.70,5.70,71,7707,sleep apnea
+1153,28,male,teacher,day,underweight,never,258,6.60,6.10,3.70,82,9172,insomnia
+1154,49,male,office staff,day,obese,never,185,3.30,6.60,5.60,67,6239,none
+1155,25,female,office staff,day,underweight,former,227,3.70,7.10,4.70,79,9689,sleep apnea
+1156,37,male,office staff,rotating/shift,normal,never,270,4.30,6.30,4.70,74,8227,none
+1157,52,male,driver,rotating/shift,overweight,former,119,7.60,4.00,1.00,84,5751,insomnia
+1158,34,female,freelancer,none,underweight,never,334,5.90,7.40,3.50,81,9037,none
+1159,44,female,hospitality,day,obese,never,249,4.10,6.40,4.40,79,6934,none
+1160,44,female,researcher,rotating/shift,underweight,never,332,4.20,0.00,5.90,83,6501,none
+1161,49,male,sales,day,overweight,former,134,5.30,6.10,3.50,78,3252,sleep apnea
+1162,61,male,manager,day,obese,former,304,4.30,6.60,5.20,74,8842,sleep apnea
+1163,36,male,driver,day,obese,former,255,2.60,6.20,5.10,73,12777,none
+1164,45,female,hospitality,night,obese,former,271,7.30,4.60,1.00,83,9205,insomnia
+1165,46,male,office staff,day,normal,former,190,4.60,7.30,4.50,69,11176,none
+1166,57,male,office staff,day,obese,never,166,4.70,6.80,3.10,76,8415,sleep apnea
+1167,39,male,researcher,day,underweight,never,216,3.80,6.50,5.10,81,6280,insomnia
+1168,24,male,software engineer,day,underweight,former,323,4.60,6.60,3.10,70,6785,none
+1169,47,female,healthcare worker,night,obese,former,254,7.30,5.70,2.20,83,4298,insomnia
+1170,65,female,student,day,obese,former,287,5.40,6.30,3.20,77,6037,sleep apnea
+1171,58,female,sales,day,obese,never,361,3.20,6.90,5.20,74,5205,sleep apnea
+1172,26,female,software engineer,day,underweight,former,326,2.30,8.10,6.40,72,8092,none
+1173,36,female,office staff,day,underweight,former,236,4.40,6.00,3.50,77,5216,sleep apnea
+1174,19,male,healthcare worker,day,underweight,never,387,2.80,7.20,6.60,72,8242,none
+1175,43,female,driver,night,obese,never,85,4.70,5.80,4.20,73,5468,none
+1176,45,male,freelancer,day,overweight,former,245,5.40,5.60,2.80,74,7274,insomnia
+1177,42,male,driver,rotating/shift,obese,former,108,7.80,5.20,1.50,82,8068,sleep apnea
+1178,44,female,software engineer,day,overweight,former,202,5.40,5.60,5.40,72,6538,insomnia
+1179,59,male,teacher,rotating/shift,obese,former,245,3.70,6.00,4.80,72,7990,sleep apnea
+1180,30,male,software engineer,day,underweight,never,294,5.90,5.60,4.60,79,8303,none
+1181,38,male,software engineer,day,normal,former,281,3.00,7.20,6.10,75,7412,sleep apnea
+1182,29,male,teacher,rotating/shift,underweight,former,186,4.90,6.40,5.80,77,3921,none
+1183,54,male,freelancer,day,obese,former,189,4.90,7.10,5.00,79,6820,sleep apnea
+1184,28,female,hospitality,day,underweight,never,180,5.80,6.10,5.10,78,6297,none
+1185,51,male,driver,day,obese,former,107,5.10,5.80,4.30,85,2776,insomnia
+1186,43,male,software engineer,day,underweight,former,256,4.60,6.40,4.40,81,6926,none
+1187,58,male,sales,day,obese,never,113,4.60,6.50,4.20,62,3333,sleep apnea
+1188,33,female,student,day,underweight,never,363,2.60,7.10,6.40,72,9852,none
+1189,26,male,student,day,underweight,never,276,5.20,8.60,5.30,74,6773,none
+1190,35,female,manager,rotating/shift,normal,never,286,4.10,6.90,5.60,82,5555,none
+1191,38,male,hospitality,day,normal,never,272,5.10,5.70,3.00,81,5971,sleep apnea
+1192,56,female,sales,day,obese,former,321,4.40,7.20,4.50,77,9798,sleep apnea
+1193,34,female,software engineer,day,normal,never,278,3.90,6.50,4.30,66,9317,none
+1194,40,female,teacher,day,overweight,former,282,4.10,6.20,4.60,69,6969,none
+1195,29,female,sales,rotating/shift,underweight,never,203,8.90,4.90,1.60,83,4416,insomnia
+1196,53,female,student,rotating/shift,obese,former,198,3.30,8.00,6.00,78,4621,sleep apnea
+1197,27,female,manufacturing,night,underweight,never,277,4.30,6.30,3.90,76,9084,none
+1198,26,female,freelancer,day,underweight,never,173,4.10,6.50,5.20,74,7615,none
+1199,59,female,manufacturing,none,obese,former,157,6.50,6.20,2.50,79,6158,sleep apnea
+1200,44,female,software engineer,day,overweight,former,202,5.40,5.60,5.40,72,6538,insomnia
+1201,47,female,driver,rotating/shift,obese,former,231,4.30,6.90,4.10,79,6913,sleep apnea
+1202,43,male,freelancer,day,normal,never,206,3.20,6.10,4.20,80,9028,none
+1203,26,male,student,day,normal,never,251,4.00,6.00,4.10,80,4621,none
+1204,29,female,healthcare worker,rotating/shift,normal,never,152,3.20,6.60,3.90,76,7130,none
+1205,30,male,sales,rotating/shift,underweight,never,185,6.00,6.20,4.70,79,6903,sleep apnea
+1206,18,female,freelancer,day,underweight,former,216,5.00,5.50,4.00,78,8674,insomnia
+1207,45,male,hospitality,day,underweight,former,247,4.00,6.40,4.70,83,4691,none
+1208,36,female,student,day,normal,never,201,4.00,5.90,4.70,80,6598,none
+1209,38,female,hospitality,rotating/shift,underweight,never,238,3.60,7.70,5.10,78,7712,none
+1210,40,female,healthcare worker,rotating/shift,overweight,former,142,4.50,5.40,3.70,69,3806,sleep apnea
+1211,18,male,driver,night,underweight,never,141,4.30,6.60,4.20,67,6508,none
+1212,20,female,healthcare worker,day,underweight,never,253,6.20,6.00,3.60,69,6466,none
+1213,40,male,office staff,day,obese,never,193,5.20,7.50,4.60,82,7187,sleep apnea
